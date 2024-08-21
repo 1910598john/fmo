@@ -9,7 +9,7 @@ var options = {
     }
 };
 
-var GENRES = ['Anime', 'Animated TV Shows', 'Action', 'Chinese', 'Ghibli Films', 'Horror', 'Korean', 'Sci-Fi', 'Thriller', 'War'];
+var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', name: 'animated-tv-shows'}, {genre: 'Action', name: 'action'}, {genre: 'Chinese', name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror', name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name: 'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
 
 if (currentURL.includes("index.html")) {
      //g
@@ -67,13 +67,19 @@ if (currentURL.includes("index.html")) {
             
             for (let i = 0; i < validImageUrls.length; i++) {
                 document.getElementById("main").insertAdjacentHTML("beforeend", `
-                <div>
+                <div data-genre="${GENRES[i].name}">
                     <div>
-                        <img src="${validImageUrls[i]}" alt="${GENRES[i]}"/>
-                        <p class="text-center"><span></span>${GENRES[i]}</p>
+                        <img src="${validImageUrls[i]}" alt="${GENRES[i].genre}"/>
+                        <p class="text-center"><span>${GENRES[i].genre}</span></p>
                     </div>
                 </div>`);
             }
+
+            $(".main > div").click(function(event){
+                event.stopImmediatePropagation();
+                let genre = $(this).data("genre");
+                window.open(`/${genre}`, "_self");
+            })
     
         // Now you can do something with the image URLs, such as displaying them
         } catch (error) {
