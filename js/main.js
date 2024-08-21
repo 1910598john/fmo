@@ -12,6 +12,18 @@ var options = {
 var GENRES = ['Anime', 'Animated TV Shows', 'Action', 'Chinese', 'Ghibli Films', 'Horror', 'Korean', 'Sci-Fi', 'Thriller', 'War'];
 
 if (currentURL.includes("index.html")) {
+     //g
+    fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=tl&include_adult=false&language=en`, options)
+    .then(response => response.json())
+    .then(response => {
+      console.log(response);
+    }).catch(err => console.error(err));
+    //f
+    fetch(`https://api.themoviedb.org/3/discover/movie?with_companies=10342&include_adult=false&language=en`, options)
+    .then(response => response.json())
+    .then(response => console.log(response))
+    .catch(err => console.error(err));
+
     async function fetch_genres() {
         const requests = [
             fetch('https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1', options),
