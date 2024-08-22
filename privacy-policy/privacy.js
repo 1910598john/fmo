@@ -1,4 +1,10 @@
 $(document).ready(function(){
+    var baseUrl = window.location.origin;
+    $(".logo-container").click(function(event){
+        event.stopImmediatePropagation();
+        window.open(baseUrl, "_self");
+    })
+
     setTimeout(() => {
         $(".preload-logo").animate({
             "opacity" : "0"
@@ -11,9 +17,18 @@ $(document).ready(function(){
         $(".preload").remove();
     }, 2000);
 
-    $(".side-bar ul li, header ul li, .logo-container").click(function(event){
+    $(".side-bar ul li, header ul li").click(function(event){
         event.stopImmediatePropagation();
-        window.open("../", "_self");
+        let t =$(this).data('type');
+        if (t == 'movies') {
+            window.open(baseUrl + "/movies", "_self");
+        } else if (t == "series"){
+            window.open(baseUrl + "/movies", "_self");
+        } else if (t == "home"){
+            window.open(baseUrl, "_self");
+        } else if (t == "privacy"){
+            window.open(baseUrl + "/privacy-policy", "_self");
+        }
     })
 
     function swapElements(el1, el2) {
@@ -38,19 +53,32 @@ $(document).ready(function(){
     swapElements(element1, element2);
 
     let hidden = true;
-
     $(".bars").click(function(event){
         event.stopImmediatePropagation();
         if (hidden) {
             $(".side-bar").animate({
                 "left" : "0",
             }, 500);
+            
+            $(".bars div:nth-child(2)").hide();
+            $(".bars div:nth-child(1)").addClass("r1");
+            $(".bars div:nth-child(3)").addClass("r2");
+            $(".bars div:nth-child(1)").removeClass("rb1");
+            $(".bars div:nth-child(3)").removeClass("rb2");
             hidden = false;
+            
         } else {
-            $(".side-bar").animate({
+                $(".side-bar").animate({
                 "left" : "-81vw",
             }, 500);
+            $(".bars div:nth-child(2)").show("1000");
+            $(".bars div:nth-child(1)").addClass("rb1");
+            $(".bars div:nth-child(3)").addClass("rb2");
+            $(".bars div:nth-child(1)").removeClass("r1");
+            $(".bars div:nth-child(3)").removeClass("r2");
+
             hidden = true;
+
         }
     })
 })

@@ -64,7 +64,7 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
               $(".preload").remove();
           }, 2000);
           
-          for (let i = 0; i < validImageUrls.length; i++) {
+            for (let i = 0; i < validImageUrls.length; i++) {
               document.getElementById("main").insertAdjacentHTML("beforeend", `
               <div data-genre="${GENRES[i].name}">
                   <div>
@@ -72,7 +72,21 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
                       <p class="text-center"><span>${GENRES[i].genre}</span></p>
                   </div>
               </div>`);
-          }
+            }
+            document.getElementById("main").insertAdjacentHTML("beforeend", `
+            <div data-genre="movies">
+                <div>
+                    <img src="https://placehold.jp/121211/0cad0c/400x500.png?text=MOVIES" alt="Movies"/>
+                    <p class="text-center"><span></span></p>
+                </div>
+            </div>`);
+            document.getElementById("main").insertAdjacentHTML("beforeend", `
+            <div data-genre="series">
+                <div>
+                    <img src="https://placehold.jp/121211/0cad0c/400x500.png?text=SERIES" alt="Series"/>
+                    <p class="text-center"><span></span></p>
+                </div>
+            </div>`);
 
           $(".main > div").click(function(event){
               event.stopImmediatePropagation();
@@ -89,8 +103,8 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
 
         
 $(document).ready(function() {
-  let hidden = true;
-  $(".side-bar ul li, header ul li").click(function(event){
+    let hidden = true;
+    $(".side-bar ul li, header ul li").click(function(event){
         event.stopImmediatePropagation();
         let t =$(this).data('type');
         if (t == 'movies') {
