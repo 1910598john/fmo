@@ -12,7 +12,7 @@ input::placeholder {
     color: var(--orange); /* Default placeholder color */
 }
 :root{
-    --orange: #fcba03;
+    --orange: #0cad0c;
     --black: #121211; 
 }
 
