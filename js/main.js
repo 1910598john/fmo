@@ -1,5 +1,5 @@
 var type = 'movies';
-var currentURL = window.location.href;
+var baseUrl = window.location.origin;
 
 var options = {
     method: 'GET',
@@ -76,14 +76,14 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
             document.getElementById("main").insertAdjacentHTML("beforeend", `
             <div data-genre="movies">
                 <div>
-                    <img src="https://placehold.jp/121211/0cad0c/400x500.png?text=MOVIES" alt="Movies"/>
+                    <img src="https://placehold.jp/121211/0cad0c/200x350.png?text=MOVIES" alt="Movies"/>
                     <p class="text-center"><span></span></p>
                 </div>
             </div>`);
             document.getElementById("main").insertAdjacentHTML("beforeend", `
             <div data-genre="series">
                 <div>
-                    <img src="https://placehold.jp/121211/0cad0c/400x500.png?text=SERIES" alt="Series"/>
+                    <img src="https://placehold.jp/121211/0cad0c/200x350.png?text=SERIES" alt="Series"/>
                     <p class="text-center"><span></span></p>
                 </div>
             </div>`);
@@ -91,7 +91,7 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
           $(".main > div").click(function(event){
               event.stopImmediatePropagation();
               let genre = $(this).data("genre");
-              window.open(`/${genre}`, "_self");
+              window.open(`/${genre}/`, "_self");
           })
   
       // Now you can do something with the image URLs, such as displaying them
@@ -108,14 +108,14 @@ $(document).ready(function() {
         event.stopImmediatePropagation();
         let t =$(this).data('type');
         if (t == 'movies') {
-            window.open("/movies", "_self");
+            window.open(baseUrl + "/movies/", "_self");
         } else if (t == "series"){
-            window.open("/movies", "_self");
+            window.open(baseUrl + "/series/", "_self");
         } else if (t == "home"){
-            window.open("./", "_self");
+            window.open(baseUrl, "_self");
         } else if (t == "privacy"){
-            window.open("/privacy-policy", "_self");
-        } 
+            window.open(baseUrl + "/privacy-policy/", "_self");
+        }
     })
     $(".bars").click(function(event){
         event.stopImmediatePropagation();

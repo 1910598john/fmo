@@ -1,4 +1,4 @@
-var type = 'movies';
+var type = 'series';
 var baseUrl = window.location.origin;
 
 var options = {
@@ -394,12 +394,27 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=16&with_original_language=ja&include_adult=false&sort_by=first_air_date.desc&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=16&with_original_language=en&page=${n}`,
+        options)
         .then(response => response.json())
         .then(response => {
+          
             document.getElementById("main").innerHTML = "";
           
             let series = response.results;
+              setTimeout(() => {
+                $(".preload-logo").animate({
+                    "opacity" : "0"
+                }, "fast")
+                $(".preload").addClass("preload2");
+            }, 1000)
+            
+            setTimeout(function () {
+                $(".preload-logo").remove();
+                $(".preload").remove();
+            }, 2000);
+
+            document.getElementById("page-num").innerHTML = n;
 
             for (let i = 0; i < series.length; i++) {
                 let date = new Date(series[i].first_air_date);
@@ -711,7 +726,7 @@ $(document).ready(function() {
         })
     }
 
-    fetchMovies(page);
+    fetchSeries(page);
     
     function fetchMovies(n) {
         const options = {
@@ -798,19 +813,7 @@ $(document).ready(function() {
                 }
             }
 
-            setTimeout(() => {
-                $(".preload-logo").animate({
-                    "opacity" : "0"
-                }, "fast")
-                $(".preload").addClass("preload2");
-            }, 1000)
             
-            setTimeout(function () {
-                $(".preload-logo").remove();
-                $(".preload").remove();
-            }, 2000);
-
-            document.getElementById("page-num").innerHTML = n;
         })
     }
 

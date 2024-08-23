@@ -23,7 +23,7 @@ body {
 /* preload */
 .preload {
     width:100vw;
-    height:50vh;
+    height:100vh;
     background:#fff;
     position: fixed; 
     z-index: 999;
@@ -33,7 +33,6 @@ body {
     left: 0;
 }
 .preload:nth-child(2) {
-    height: 100%;
     bottom: -2px;
     left: 0;
 }
@@ -586,6 +585,7 @@ footer .footer-img img {
     }
     .main > div {
         transform: scale(.9);
+        overflow: hidden;
         padding: 0 !important;
     }
     .main > div > div p{
@@ -653,7 +653,7 @@ footer .footer-img img {
     }
     .show-options{
         display: flex;
-        padding-left: 0;
+        padding-left: 0 !important;
         justify-content: center;
     }
     
