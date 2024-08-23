@@ -653,7 +653,7 @@ footer .footer-img img {
     }
     .show-options{
         display: flex;
-        padding-left: 0 !important;
+        padding-left: 0;
         justify-content: center;
     }
     

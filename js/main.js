@@ -9,7 +9,12 @@ var options = {
     }
 };
 
-var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', name: 'animated-tv-shows'}, {genre: 'Action', name: 'action'}, {genre: 'Chinese', name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror', name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name: 'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
+var GENRES = [{genre: 'Action', name: 'action'},{genre: 'Animated TV Shows',
+name: 'animated-tv-shows'}, {genre:
+'Anime', name : 'anime'}, {genre: 'Chinese',
+name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror',
+name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name:
+'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
 
      //g
     fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=tl&include_adult=false&language=en`, options)
@@ -25,9 +30,10 @@ var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', nam
 
   async function fetch_genres() {
       const requests = [
-          fetch('https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1', options),
-          fetch('https://api.themoviedb.org/3/search/tv?query=family%20guy&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=deadpool%20%26%20wolverine&include_adult=false&language=en-US&page=1', options),
+          
+          fetch('https://api.themoviedb.org/3/search/tv?query=family%20guy&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/tv?query=a%20love%20so%20beautiful&first_air_date_year=2017&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=howl%27s%20moving%20castle&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=kuyang&include_adult=false&language=en-US&page=1', options),
