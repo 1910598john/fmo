@@ -1,4 +1,4 @@
-var type = 'series';
+var type = 'movies';
 var baseUrl = window.location.origin;
 
 var options = {
@@ -396,7 +396,7 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/trending/tv/day?language=en-US&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=10765&sort_by=popularity.desc&page=${n}`, options)
         .then(response => response.json())
         .then(response => {
             document.getElementById("main").innerHTML = "";
@@ -725,7 +725,7 @@ $(document).ready(function() {
         })
     }
 
-    fetchSeries(page);
+    fetchMovies(page);
     
     function fetchMovies(n) {
         const options = {
@@ -736,7 +736,9 @@ $(document).ready(function() {
             }
             };
             
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=878&sort_by=popularity.desc&page=${n}`, options)
+            const today = new Date().toISOString().split('T')[0];
+
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=878&sort_by=release_date.desc&release_date.lte=${today}&page=${n}`, options)
             .then(response => response.json())
             .then(response => {
 
@@ -745,6 +747,7 @@ $(document).ready(function() {
             let movies = response.results;
             for (let i = 0; i < movies.length; i++) {
                 let date = new Date(movies[i].release_date);
+            
                 let img = new Image();
                 let url = `https://image.tmdb.org/t/p/w400${movies[i].poster_path}`;
                 img.src = url;

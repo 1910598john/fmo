@@ -396,7 +396,7 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=9648&sort_by=popularity.desc&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_original_language=tl&include_adult=false&language=en&page=${n}`, options)
         .then(response => response.json())
         .then(response => {
             document.getElementById("main").innerHTML = "";
@@ -738,7 +738,7 @@ $(document).ready(function() {
             
             const today = new Date().toISOString().split('T')[0];
 
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=53&sort_by=release_date.desc&release_date.lte=${today}&page=${n}`, options)
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=tl&include_adult=false&language=en&page=${n}`, options)
             .then(response => response.json())
             .then(response => {
 

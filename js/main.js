@@ -16,18 +16,6 @@ name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror',
 name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name:
 'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
 
-     //g
-    fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=tl&include_adult=false&language=en`, options)
-    .then(response => response.json())
-    .then(response => {
-      console.log(response);
-    }).catch(err => console.error(err));
-    //f
-    fetch(`https://api.themoviedb.org/3/discover/movie?with_companies=10342&include_adult=false&language=en`, options)
-    .then(response => response.json())
-    .then(response => console.log(response))
-    .catch(err => console.error(err));
-
   async function fetch_genres() {
       const requests = [
           fetch('https://api.themoviedb.org/3/search/movie?query=deadpool%20%26%20wolverine&include_adult=false&language=en-US&page=1', options),

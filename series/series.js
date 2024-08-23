@@ -119,8 +119,6 @@ function search(s, type) {
         .then(response => response.json())
         .then(response => {
             response = response.results;
-
-       
     
             document.getElementById("con-title").innerHTML = "Result for: " + s;
             document.getElementById("main").innerHTML = "";
