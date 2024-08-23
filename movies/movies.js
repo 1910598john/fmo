@@ -394,7 +394,7 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/discover/tv?with_original_language=ko&include_adult=false&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?include_adult=false&include_null_first_air_dates=false&language=en-US&page=1&sort_by=popularity.desc&page=${n}`, options)
         .then(response => response.json())
         .then(response => {
             document.getElementById("main").innerHTML = "";
@@ -722,7 +722,7 @@ $(document).ready(function() {
             }
             };
             
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=ko&include_adult=false&sort_by=release_date.desc&page=${n}`, options)
+            fetch(`https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&page=${n}`, options)
             .then(response => response.json())
             .then(response => {
 

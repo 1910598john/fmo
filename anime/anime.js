@@ -819,7 +819,7 @@ $(document).ready(function() {
         if ($("#jump-page").val() !== '') {
             document.getElementById("main").scrollIntoView({behavior: "smooth"})
             page = parseInt($("#jump-page").val());
-            fetchMovies($("#jump-page").val());
+            (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
             $("#jump-page").val('');
         }
     })

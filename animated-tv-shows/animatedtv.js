@@ -402,19 +402,7 @@ $(document).ready(function() {
             document.getElementById("main").innerHTML = "";
           
             let series = response.results;
-              setTimeout(() => {
-                $(".preload-logo").animate({
-                    "opacity" : "0"
-                }, "fast")
-                $(".preload").addClass("preload2");
-            }, 1000)
             
-            setTimeout(function () {
-                $(".preload-logo").remove();
-                $(".preload").remove();
-            }, 2000);
-
-            document.getElementById("page-num").innerHTML = n;
 
             for (let i = 0; i < series.length; i++) {
                 let date = new Date(series[i].first_air_date);
@@ -583,6 +571,18 @@ $(document).ready(function() {
                     })
                 }
             }
+
+            setTimeout(() => {
+                $(".preload-logo").animate({
+                    "opacity" : "0"
+                }, "fast")
+                $(".preload").addClass("preload2");
+            }, 1000)
+            
+            setTimeout(function () {
+                $(".preload-logo").remove();
+                $(".preload").remove();
+            }, 2000);
 
             document.getElementById("page-num").innerHTML = n;
         })
@@ -822,7 +822,7 @@ $(document).ready(function() {
         if ($("#jump-page").val() !== '') {
             document.getElementById("main").scrollIntoView({behavior: "smooth"})
             page = parseInt($("#jump-page").val());
-            fetchMovies($("#jump-page").val());
+            (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
             $("#jump-page").val('');
         }
     })
