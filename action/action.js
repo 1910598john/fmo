@@ -1,3 +1,4 @@
+import mediaNotif from "../module.js";
 var type = 'movies';
 var baseUrl = window.location.origin;
 
@@ -746,6 +747,7 @@ $(document).ready(function() {
 
                     $(".movie").on("click", function(event){
                         event.stopImmediatePropagation();
+                        mediaNotif();
                         let data = $(this).data("id");
 
                         $("html, body").css("overflow", "hidden");

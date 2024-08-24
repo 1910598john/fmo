@@ -56,7 +56,28 @@ body {
         height: 0vh;
     }
 }
-
+.notif{
+  z-index: 1010101010;
+  position: fixed;
+  padding: 7px;
+  word-wrap: break-word;
+  bottom: -10px;
+  left: 10px;
+  background: var(--orange);
+  color: white;
+  border-radius: 4px;
+  animation-name: notif;
+  animation-duration: .5s;
+  animation-fill-mode: forwards;
+  animation-delay: 2s;
+}
+@keyframes notif{
+  from {
+    bottom: -10px;
+  } to {
+    bottom: 10px;
+  }
+}
 /* header */
 header{
     top: 0;
