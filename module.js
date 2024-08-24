@@ -6,7 +6,7 @@ function mediaNotif(){
 
     setTimeout(() => {
       $(".notif").remove();
-    }, 3000);
+    }, 5000);
 }
 
 export default mediaNotif;
