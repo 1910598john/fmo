@@ -12,7 +12,7 @@ var options = {
 var GENRES = [{genre: 'Action', name: 'action'},{genre: 'Animated TV Shows',
 name: 'animated-tv-shows'}, {genre:
 'Anime', name : 'anime'}, {genre: 'Chinese',
-name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror',
+name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Fantasy' , name: 'fantasy'}, {genre: 'Filipino', name: 'filipino-films'}, {genre: 'Horror',
 name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name:
 'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
 
@@ -24,6 +24,8 @@ name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name:
           fetch('https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/tv?query=a%20love%20so%20beautiful&first_air_date_year=2017&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=howl%27s%20moving%20castle&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=damsel&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=my%20zombabe&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=kuyang&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/tv?query=alchemy%20of%20souls&include_adult=false&language=en-US&page=1', options),
           fetch('https://api.themoviedb.org/3/search/movie?query=65&include_adult=false&language=en-US&page=1', options),

@@ -87,7 +87,7 @@ function search(s, type) {
                                         server = 1;
                                         $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}`)
                                     }
-                                    $(this).html("Server " + server);
+                                    
                                 })
                     
                                 $(".close-button").click(function(event){
@@ -121,6 +121,8 @@ function search(s, type) {
         .then(response => response.json())
         .then(response => {
             response = response.results;
+
+       
     
             document.getElementById("con-title").innerHTML = "Result for: " + s;
             document.getElementById("main").innerHTML = "";
@@ -340,7 +342,7 @@ $(document).ready(function() {
           $(".show-options > div").removeClass("active");
           $(this).addClass("active");
           type = $(this).data("opt");
-          
+          page = 1;
           (type == 'movies') ? fetchMovies(1) : fetchSeries(1);
         }
         
@@ -397,7 +399,7 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/discover/tv?with_original_language=zh&include_adult=false&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=10765,18&sort_by=first_air_date.desc&include_adult=false&language=en&page=${n}`, options)
         .then(response => response.json())
         .then(response => {
             document.getElementById("main").innerHTML = "";
@@ -573,6 +575,18 @@ $(document).ready(function() {
                 }
             }
 
+            setTimeout(() => {
+                $(".preload-logo").animate({
+                    "opacity" : "0"
+                }, "fast")
+                $(".preload").addClass("preload2");
+            }, 1000)
+            
+            setTimeout(function () {
+                $(".preload-logo").remove();
+                $(".preload").remove();
+            }, 2000);
+
             document.getElementById("page-num").innerHTML = n;
         })
     }
@@ -726,7 +740,9 @@ $(document).ready(function() {
             }
             };
             
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_companies=10342&include_adult=false&page=${n}`, options)
+            const today = new Date().toISOString().split('T')[0];
+
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=14&release_date.lte=${today}&language=en&page=${n}`, options)
             .then(response => response.json())
             .then(response => {
 
@@ -735,6 +751,7 @@ $(document).ready(function() {
             let movies = response.results;
             for (let i = 0; i < movies.length; i++) {
                 let date = new Date(movies[i].release_date);
+            
                 let img = new Image();
                 let url = `https://image.tmdb.org/t/p/w400${movies[i].poster_path}`;
                 img.src = url;
@@ -788,7 +805,7 @@ $(document).ready(function() {
                                 server = 1;
                                 $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
                             }
-                            $(this).html("Server " + server);
+                            
                         })
         
                         $(".close-button").click(function(event){
@@ -824,7 +841,7 @@ $(document).ready(function() {
         if ($("#jump-page").val() !== '') {
             document.getElementById("main").scrollIntoView({behavior: "smooth"})
             page = parseInt($("#jump-page").val());
-            fetchMovies($("#jump-page").val());
+            (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
             $("#jump-page").val('');
         }
     })

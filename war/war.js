@@ -1,3 +1,4 @@
+import mediaNotif from "../module.js";
 var type = 'movies';
 var baseUrl = window.location.origin;
 
@@ -47,6 +48,7 @@ function search(s, type) {
     
                             $(".movie").on("click", function(event){
                                 event.stopImmediatePropagation();
+                                mediaNotif();
                                 let data = $(this).data("id");
                     
                                 $("html, body").css("overflow", "hidden");
@@ -148,6 +150,7 @@ function search(s, type) {
     
                             $(".series").on("click", function(event){
                                 event.stopImmediatePropagation();
+                                mediaNotif();
                                 let data = $(this).data("id");
                                 $("html, body").css("overflow", "hidden");
         
@@ -419,6 +422,7 @@ $(document).ready(function() {
 
                     $(".series").on("click", function(event){
                         event.stopImmediatePropagation();
+                        mediaNotif();
                         let data = $(this).data("id");
                         $("html, body").css("overflow", "hidden");
 
@@ -762,6 +766,7 @@ $(document).ready(function() {
 
                     $(".movie").on("click", function(event){
                         event.stopImmediatePropagation();
+                        mediaNotif();
                         let data = $(this).data("id");
 
                         $("html, body").css("overflow", "hidden");
