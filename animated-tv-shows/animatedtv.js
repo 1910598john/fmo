@@ -85,7 +85,7 @@ function search(s, type) {
                                         server = 1;
                                         $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}`)
                                     }
-                                    $(this).html("Server " + server);
+                                    
                                 })
                     
                                 $(".close-button").click(function(event){
@@ -337,7 +337,7 @@ $(document).ready(function() {
           $(".show-options > div").removeClass("active");
           $(this).addClass("active");
           type = $(this).data("opt");
-          
+          page = 1;
           (type == 'movies') ? fetchMovies(1) : fetchSeries(1);
         }
         
@@ -798,7 +798,7 @@ $(document).ready(function() {
                                 server = 1;
                                 $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
                             }
-                            $(this).html("Server " + server);
+                            
                         })
         
                         $(".close-button").click(function(event){

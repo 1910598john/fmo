@@ -85,7 +85,7 @@ function search(s, type) {
                                         server = 1;
                                         $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}`)
                                     }
-                                    $(this).html("Server " + server);
+                                    
                                 })
                     
                                 $(".close-button").click(function(event){
@@ -337,7 +337,7 @@ $(document).ready(function() {
           $(".show-options > div").removeClass("active");
           $(this).addClass("active");
           type = $(this).data("opt");
-          
+          page = 1;
           (type == 'movies') ? fetchMovies(1) : fetchSeries(1);
         }
         
@@ -394,7 +394,7 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
             }
         };
-        fetch(`https://api.themoviedb.org/3/discover/tv?with_original_language=zh&include_adult=false&page=${n}`, options)
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_original_language=zh&with_genres=18&sort_by=first_air_date.desc&page=${n}`, options)
         .then(response => response.json())
         .then(response => {
             document.getElementById("main").innerHTML = "";
@@ -722,7 +722,8 @@ $(document).ready(function() {
             }
             };
 
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=zh&include_adult=false&page=${n}`, options)
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_original_language=zh&with_genres=28&sort_by=release_date.desc&page=${n}`,
+            options)
             .then(response => response.json())
             .then(response => {
 
@@ -783,7 +784,7 @@ $(document).ready(function() {
                                 server = 1;
                                 $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
                             }
-                            $(this).html("Server " + server);
+                            
                         })
         
                         $(".close-button").click(function(event){

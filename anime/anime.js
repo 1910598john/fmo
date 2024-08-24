@@ -85,7 +85,7 @@ function search(s, type) {
                                         server = 1;
                                         $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}`)
                                     }
-                                    $(this).html("Server " + server);
+                                    
                                 })
                     
                                 $(".close-button").click(function(event){
@@ -337,7 +337,7 @@ $(document).ready(function() {
           $(".show-options > div").removeClass("active");
           $(this).addClass("active");
           type = $(this).data("opt");
-          
+          page = 1;
           (type == 'movies') ? fetchMovies(1) : fetchSeries(1);
         }
         
@@ -721,8 +721,8 @@ $(document).ready(function() {
                 Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8'
             }
             };
-            
-            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=16&with_original_language=ja&include_adult=false&sort_by=release_date.desc&page=${n}`, options)
+            const today = new Date().toISOString().split('T')[0];
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=16&with_original_language=ja&include_adult=false&sort_by=release_date.desc&release_date.lte=${today}&page=${n}`, options)
             .then(response => response.json())
             .then(response => {
 
@@ -783,7 +783,7 @@ $(document).ready(function() {
                                 server = 1;
                                 $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
                             }
-                            $(this).html("Server " + server);
+                            
                         })
         
                         $(".close-button").click(function(event){

@@ -85,7 +85,7 @@ function search(s, type) {
                                         server = 1;
                                         $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}`)
                                     }
-                                    $(this).html("Server " + server);
+                                    
                                 })
                     
                                 $(".close-button").click(function(event){
@@ -795,7 +795,7 @@ $(document).ready(function() {
                                 server = 1;
                                 $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
                             }
-                            $(this).html("Server " + server);
+                           
                         })
         
                         $(".close-button").click(function(event){
