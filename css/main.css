@@ -644,7 +644,7 @@ footer .footer-img img {
     .watch-window > div .close-button{
         position: absolute;
         right: -10px;
-        top: -20px;
+        top: -30px;
         cursor: pointer;
     }
     .watch-window > div .dl-button{
