@@ -61,7 +61,7 @@ body {
   position: fixed;
   padding: 7px;
   word-wrap: break-word;
-  bottom: -10px;
+  bottom: -200px;
   left: 10px;
   background: var(--orange);
   color: white;
