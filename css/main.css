@@ -650,7 +650,7 @@ footer .footer-img img {
     .watch-window > div .dl-button{
         position: absolute;
         left: 0;
-       
+        bottom: -30px !important;
         border-radius: 4px;
         padding: 7px 20px;
         background-color: rgb(0, 204, 255);
@@ -660,7 +660,7 @@ footer .footer-img img {
     .watch-window > div .change-server-button{
         position: absolute;
         right: 0;
-       
+        bottom: -30px !important;
         border-radius: 4px;
         padding: 7px 20px;
         background-color: var(--orange);
