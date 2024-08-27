@@ -638,8 +638,9 @@ footer .footer-img img {
     }
     .watch-window > div {
         height: 30vh;
-        width: 90vw;
+        width: 96vw;
         position: relative;
+        margin-top: -100px;
     }
     .watch-window > div .close-button{
         position: absolute;
