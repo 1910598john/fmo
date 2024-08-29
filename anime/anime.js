@@ -1,1 +1,862 @@
-const _0x51defa=_0x4c25;(function(_0x18b5bb,_0x5c8992){const _0x1281c9=_0x4c25,_0x19b595=_0x18b5bb();while(!![]){try{const _0x126ef5=-parseInt(_0x1281c9(0x128))/0x1+-parseInt(_0x1281c9(0xfa))/0x2+parseInt(_0x1281c9(0x149))/0x3+parseInt(_0x1281c9(0x152))/0x4+parseInt(_0x1281c9(0xd8))/0x5*(parseInt(_0x1281c9(0x16f))/0x6)+parseInt(_0x1281c9(0xd2))/0x7*(-parseInt(_0x1281c9(0xd4))/0x8)+parseInt(_0x1281c9(0xf0))/0x9;if(_0x126ef5===_0x5c8992)break;else _0x19b595['push'](_0x19b595['shift']());}catch(_0x19d533){_0x19b595['push'](_0x19b595['shift']());}}}(_0x36e5,0xadaed));function _0x36e5(){const _0x401c30=['split','.search-window\x20svg','mouseleave','ep-count','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','#prev','479988HemaqT','css','https://vidsrc.me/embed/movie?tmdb=','\x27\x20data-title=\x22','korean','?language=en-US','html,\x20body','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22watch-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dl-button\x22\x20onclick=\x22window.open(\x27https://mordoops.com/4/7777606\x27,\x20\x27_blank\x27);\x22>','location','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22movie\x22\x20data-id=\x27','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22search-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20autocomplete=\x22off\x22\x20id=\x22search\x22\x20placeholder=\x22What\x20to\x20watch\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2230\x22\x20height=\x2230\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-search\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M11.742\x2010.344a6.5\x206.5\x200\x201\x200-1.397\x201.398h-.001q.044.06.098.115l3.85\x203.85a1\x201\x200\x200\x200\x201.415-1.414l-3.85-3.85a1\x201\x200\x200\x200-.115-.1zM12\x206.5a5.5\x205.5\x200\x201\x201-11\x200\x205.5\x205.5\x200\x200\x201\x2011\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22type\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22active\x22\x20data-t=\x22movie\x22>Movie</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-t=\x22series\x22>Series</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','Enter','.episode','src','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Not\x20found\x20:(</div><br><br>','\x22\x20alt=\x22','.search-window','copyright','.preload','Bearer\x20eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA','Anime','https://image.tmdb.org/t/p/w400','con-title','.show-options\x20>\x20div','.side-bar\x20ul\x20li,\x20header\x20ul\x20li','privacy','/movies/','season_number','bottom','.search-window\x20>\x20div','Action','\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','.watch-window\x20iframe','fast','\x22\x20allowfullscreen></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','application/json','movies','parentNode','seasons-container','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-season-number=\x22','.preload-logo','body','addEventListener','open','preventDefault','val','hasClass','42LwBxRp','insertBefore','1234648ilttSJ','add','movie','hide','10CPODTt','mouseup','/privacy-policy/','home','</div>','Download\x20','Chinese','<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22movie\x22\x20data-id=\x27','stopImmediatePropagation','preload2','#jump-page','\x22\x20data-ep-count=\x22','width','-20px','&e=',')</span><br>','Thriller','&episode=','hidden','.type\x20>\x20div','first_air_date','opt','horror','release_date','14738598SuFDuH','.bars\x20div:nth-child(3)','.series','\x22>Episode\x20','.bars\x20div:nth-child(1)','toISOString','.page-navigation','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2240\x22\x20height=\x2240\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-x-square-fill\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M2\x200a2\x202\x200\x200\x200-2\x202v12a2\x202\x200\x200\x200\x202\x202h12a2\x202\x200\x200\x200\x202-2V2a2\x202\x200\x200\x200-2-2zm3.354\x204.646L8\x207.293l2.646-2.647a.5.5\x200\x200\x201\x20.708.708L8.707\x208l2.647\x202.646a.5.5\x200\x200\x201-.708.708L8\x208.707l-2.646\x202.647a.5.5\x200\x200\x201-.708-.708L7.293\x208\x204.646\x205.354a.5.5\x200\x201\x201\x20.708-.708\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20id=\x22show\x22\x20src=\x22','value','&season=','843524gnsyJd','https://vidsrc.me/embed/tv?tmdb=','https://api.themoviedb.org/3/search/tv?query=','main','season-number','\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22change-server-button\x22>Change\x20server</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22seasons-container\x22\x20id=\x22seasons-container\x22>','&page=','action','keydown','poster_path','studio-ghibli','.side-bar','-90px','&season=1&episode=1','insertAdjacentHTML','.close-button','Sci-Fi','war','s-search','https://api.themoviedb.org/3/tv/','Bearer\x20eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8','offsetLeft','Result\x20for:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22watch-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dl-button\x22\x20onclick=\x22window.open(\x27https://mordoops.com/4/7777606\x27,\x20\x27_blank\x27);\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-season-number=\x22','length','anime','#next','search','innerHTML','.side-bar\x20.search\x20a','<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22series\x22\x20data-id=\x27','Animated\x20TV\x20Shows','Download','nextSibling','scrollIntoView','error','.change-server-button','rb1','_self','title','getElementById','Horror','.side-bar\x20.type\x20>\x20div','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22back\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2220\x22\x20height=\x2220\x22\x20fill=\x22#fff\x22\x20class=\x22bi\x20bi-chevron-double-left\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20fill-rule=\x22evenodd\x22\x20d=\x22M8.354\x201.646a.5.5\x200\x200\x201\x200\x20.708L2.707\x208l5.647\x205.646a.5.5\x200\x200\x201-.708.708l-6-6a.5.5\x200\x200\x201\x200-.708l6-6a.5.5\x200\x200\x201\x20.708\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20fill-rule=\x22evenodd\x22\x20d=\x22M12.354\x201.646a.5.5\x200\x200\x201\x200\x20.708L6.707\x208l5.647\x205.646a.5.5\x200\x200\x201-.708.708l-6-6a.5.5\x200\x200\x201\x200-.708l6-6a.5.5\x200\x200\x201\x20.708\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','898658nCQwvO','.back','War','\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span>(','origin','.watch-window','thriller','afterbegin','1000','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2240\x22\x20height=\x2240\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-x-square-fill\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M2\x200a2\x202\x200\x200\x200-2\x202v12a2\x202\x200\x200\x200\x202\x202h12a2\x202\x200\x200\x200\x202-2V2a2\x202\x200\x200\x200-2-2zm3.354\x204.646L8\x207.293l2.646-2.647a.5.5\x200\x200\x201\x20.708.708L8.707\x208l2.647\x202.646a.5.5\x200\x200\x201-.708.708L8\x208.707l-2.646\x202.647a.5.5\x200\x200\x201-.708-.708L7.293\x208\x204.646\x205.354a.5.5\x200\x201\x201\x20.708-.708\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20id=\x22show\x22\x20src=\x22','removeClass','.dl-button,\x20.change-server-button','.movie','.show-options','data','Ghibli','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22change-server-button\x22>Change\x20server</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2240\x22\x20height=\x2240\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-x-square-fill\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M2\x200a2\x202\x200\x200\x200-2\x202v12a2\x202\x200\x200\x200\x202\x202h12a2\x202\x200\x200\x200\x202-2V2a2\x202\x200\x200\x200-2-2zm3.354\x204.646L8\x207.293l2.646-2.647a.5.5\x200\x200\x201\x20.708.708L8.707\x208l2.647\x202.646a.5.5\x200\x200\x201-.708.708L8\x208.707l-2.646\x202.647a.5.5\x200\x200\x201-.708-.708L7.293\x208\x204.646\x205.354a.5.5\x200\x201\x201\x20.708-.708\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20src=\x22','toString','-81vw','name','https://api.themoviedb.org/3/discover/tv?with_genres=16&with_original_language=ja&include_adult=false&sort_by=first_air_date.desc&page=','&tmdb=1','smooth','addClass','&include_adult=false','mousemove','json','.bars','page-num','\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span>(','beforeend','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22change-server-button\x22>Change\x20server</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22close-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2240\x22\x20height=\x2240\x22\x20fill=\x22var(--orange)\x22\x20class=\x22bi\x20bi-x-square-fill\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20d=\x22M2\x200a2\x202\x200\x200\x200-2\x202v12a2\x202\x200\x200\x200\x202\x202h12a2\x202\x200\x200\x200\x202-2V2a2\x202\x200\x200\x200-2-2zm3.354\x204.646L8\x207.293l2.646-2.647a.5.5\x200\x200\x201\x20.708.708L8.707\x208l2.647\x202.646a.5.5\x200\x200\x201-.708.708L8\x208.707l-2.646\x202.647a.5.5\x200\x200\x201-.708-.708L7.293\x208\x204.646\x205.354a.5.5\x200\x201\x201\x20.708-.708\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<iframe\x20src=\x22','animate','1621992QZRSnw','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22watch-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dl-button\x22\x20onclick=\x22window.open(\x27https://mordoops.com/4/7777606\x27,\x20\x27_blank\x27)\x22>','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22change-server-button\x22>Change\x20server</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22seasons-container\x22\x20id=\x22seasons-container\x22>','chinese','/series/','episode_count','.seasons-container\x20>\x20div','type','remove','2478116bBgDuH','onload','show','active','.bars\x20div:nth-child(2)','click','results','pageX','rb2','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Not\x20found</div>','sci-fi','&tmdb=1&s=','seasons','auto','https://multiembed.mov/directstream.php?video_id=','focus','key','.logo-container,\x20.home','overflow','attr','then','classList','GET'];_0x36e5=function(){return _0x401c30;};return _0x36e5();}import _0x59eeaf from'../module.js';var type=_0x51defa(0xc7),baseUrl=window[_0x51defa(0x177)][_0x51defa(0x12c)],options={'method':'GET','headers':{'accept':_0x51defa(0xc6),'Authorization':_0x51defa(0x10f)}},GENRES=[{'genre':_0x51defa(0xb7),'name':_0x51defa(0x115)},{'genre':_0x51defa(0x11b),'name':'animated-tv-shows'},{'genre':_0x51defa(0xc1),'name':_0x51defa(0x102)},{'genre':_0x51defa(0xde),'name':_0x51defa(0x14c)},{'genre':_0x51defa(0x137),'name':_0x51defa(0x105)},{'genre':_0x51defa(0x125),'name':_0x51defa(0xee)},{'genre':'Korean','name':_0x51defa(0x173)},{'genre':_0x51defa(0x10b),'name':_0x51defa(0x15c)},{'genre':_0x51defa(0xe8),'name':_0x51defa(0x12e)},{'genre':_0x51defa(0x12a),'name':_0x51defa(0x10c)}];function search(_0x5827a9,_0x662b41){const _0x367c1f=_0x51defa;$(_0x367c1f(0x135))[_0x367c1f(0xd7)](),_0x662b41==_0x367c1f(0xd6)?fetch('https://api.themoviedb.org/3/search/movie?query='+encodeURIComponent(_0x5827a9)+_0x367c1f(0x140),options)[_0x367c1f(0x166)](_0x3f3375=>_0x3f3375['json']())[_0x367c1f(0x166)](_0x4cef30=>{const _0x2df4ea=_0x367c1f;_0x4cef30=_0x4cef30[_0x2df4ea(0x158)],document[_0x2df4ea(0x124)](_0x2df4ea(0xb9))['innerHTML']=_0x2df4ea(0x111)+_0x5827a9,document[_0x2df4ea(0x124)](_0x2df4ea(0xfd))[_0x2df4ea(0x118)]='',$(_0x2df4ea(0xf6))[_0x2df4ea(0xd7)]();let _0x890006=0x0;for(let _0x1b7c8a=_0x4cef30[_0x2df4ea(0x114)]-0x1;_0x1b7c8a>=0x0;_0x1b7c8a--){if(_0x4cef30[_0x1b7c8a]['release_date']!=''){let _0x569dfe=new Date(_0x4cef30[_0x1b7c8a]['release_date']),_0x2b8730=_0x569dfe['getFullYear']();_0x2b8730=_0x2b8730[_0x2df4ea(0x139)]();if(_0x4cef30[_0x1b7c8a][_0x2df4ea(0x104)]!=null){let _0x202407=_0x2df4ea(0xb8)+_0x4cef30[_0x1b7c8a][_0x2df4ea(0x104)],_0x46cbcb=new Image();_0x46cbcb['src']=_0x202407,_0x46cbcb[_0x2df4ea(0x153)]=function(){const _0x2d74e8=_0x2df4ea;document[_0x2d74e8(0x124)](_0x2d74e8(0xfd))[_0x2d74e8(0x109)](_0x2d74e8(0x12f),_0x2d74e8(0x178)+_0x4cef30[_0x1b7c8a]['id']+_0x2d74e8(0x172)+_0x4cef30[_0x1b7c8a]['title']+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+_0x202407+_0x2d74e8(0x17e)+_0x4cef30[_0x1b7c8a][_0x2d74e8(0x123)]+_0x2d74e8(0x145)+_0x2b8730+_0x2d74e8(0xe7)+_0x4cef30[_0x1b7c8a][_0x2d74e8(0x123)]+_0x2d74e8(0xc2)),$(_0x2d74e8(0x134))['on']('click',function(_0x31c036){const _0xaaf9a8=_0x2d74e8;_0x31c036['stopImmediatePropagation'](),_0x59eeaf();let _0x865b41=$(this)[_0xaaf9a8(0x136)]('id');$(_0xaaf9a8(0x175))[_0xaaf9a8(0x170)](_0xaaf9a8(0x164),'hidden');let _0x4387da='';$(window)['width']()>0x258?_0x4387da=_0xaaf9a8(0xdd)+$(this)['data'](_0xaaf9a8(0x123)):_0x4387da=_0xaaf9a8(0x11c);let _0x5a2a6a=_0xaaf9a8(0x171)+_0x865b41;document[_0xaaf9a8(0xcc)]['insertAdjacentHTML'](_0xaaf9a8(0x12f),_0xaaf9a8(0x14a)+_0x4387da+_0xaaf9a8(0x138)+_0x5a2a6a+'\x22\x20onerror=\x22handleError()\x22\x20allowfullscreen></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>'),$(_0xaaf9a8(0x133))['css'](_0xaaf9a8(0xbf),_0xaaf9a8(0xe5));let _0x5b46fd=0x1;$(_0xaaf9a8(0x120))['click'](function(){const _0x5d672e=_0xaaf9a8;_0x5b46fd==0x1?(_0x5b46fd=0x2,$(_0x5d672e(0xc3))[_0x5d672e(0x165)]('src',_0x5d672e(0x160)+_0x865b41+'&tmdb=1')):(_0x5b46fd=0x1,$(_0x5d672e(0xc3))['attr'](_0x5d672e(0x17c),_0x5d672e(0x171)+_0x865b41));}),$(_0xaaf9a8(0x10a))[_0xaaf9a8(0x157)](function(_0x57b2e1){const _0x49a10f=_0xaaf9a8;_0x57b2e1[_0x49a10f(0xe0)](),$('html,\x20body')[_0x49a10f(0x170)](_0x49a10f(0x164),_0x49a10f(0x15f)),$(_0x49a10f(0x12d))[_0x49a10f(0x151)]();});});},_0x890006+=0x1;}}}_0x890006==0x0&&document[_0x2df4ea(0x124)]('main')[_0x2df4ea(0x109)](_0x2df4ea(0x12f),_0x2df4ea(0x15b)),$(window)[_0x2df4ea(0xe4)]()>0x258&&($(_0x2df4ea(0x17f))[_0x2df4ea(0x151)](),$('html,\x20body')['css'](_0x2df4ea(0x164),_0x2df4ea(0x15f)));}):fetch(_0x367c1f(0xfc)+encodeURIComponent(_0x5827a9)+_0x367c1f(0x140),options)[_0x367c1f(0x166)](_0xaa0c38=>_0xaa0c38[_0x367c1f(0x142)]())[_0x367c1f(0x166)](_0x5d5ae6=>{const _0x3d43ba=_0x367c1f;_0x5d5ae6=_0x5d5ae6['results'],document[_0x3d43ba(0x124)](_0x3d43ba(0xb9))[_0x3d43ba(0x118)]=_0x3d43ba(0x111)+_0x5827a9,document[_0x3d43ba(0x124)](_0x3d43ba(0xfd))[_0x3d43ba(0x118)]='',$('.page-navigation')['hide']();let _0x3583e3=0x0;for(let _0x57edba=_0x5d5ae6[_0x3d43ba(0x114)]-0x1;_0x57edba>=0x0;_0x57edba--){if(_0x5d5ae6[_0x57edba]['first_air_date']!=''){let _0x1140e2=new Date(_0x5d5ae6[_0x57edba][_0x3d43ba(0xec)]),_0xb0d485=_0x1140e2['getFullYear']();_0xb0d485=_0xb0d485[_0x3d43ba(0x139)]();if(_0x5d5ae6[_0x57edba][_0x3d43ba(0x104)]!=null){let _0x43e489=_0x3d43ba(0xb8)+_0x5d5ae6[_0x57edba][_0x3d43ba(0x104)],_0x697b65=new Image();_0x697b65[_0x3d43ba(0x17c)]=_0x43e489,_0x697b65['onload']=function(){const _0x3ea2a4=_0x3d43ba;document[_0x3ea2a4(0x124)](_0x3ea2a4(0xfd))[_0x3ea2a4(0x109)](_0x3ea2a4(0x12f),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22series\x22\x20data-id=\x27'+_0x5d5ae6[_0x57edba]['id']+_0x3ea2a4(0x172)+_0x5d5ae6[_0x57edba][_0x3ea2a4(0x13b)]+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+_0x43e489+_0x3ea2a4(0x17e)+_0x5d5ae6[_0x57edba][_0x3ea2a4(0x13b)]+_0x3ea2a4(0x145)+_0xb0d485+_0x3ea2a4(0xe7)+_0x5d5ae6[_0x57edba][_0x3ea2a4(0x13b)]+_0x3ea2a4(0xc2)),$(_0x3ea2a4(0xf2))['on'](_0x3ea2a4(0x157),function(_0x36e776){const _0x56c49d=_0x3ea2a4;_0x36e776[_0x56c49d(0xe0)](),_0x59eeaf();let _0x4dd02e=$(this)['data']('id');$(_0x56c49d(0x175))['css'](_0x56c49d(0x164),_0x56c49d(0xea));const _0x28731b={'method':_0x56c49d(0x168),'headers':{'accept':'application/json','Authorization':_0x56c49d(0xb6)}};fetch('https://api.themoviedb.org/3/tv/'+_0x4dd02e+_0x56c49d(0x174),_0x28731b)[_0x56c49d(0x166)](_0x2d8479=>_0x2d8479[_0x56c49d(0x142)]())[_0x56c49d(0x166)](_0x35fd5e=>{const _0x4fdeb5=_0x56c49d;let _0x331ea1=_0x35fd5e[_0x4fdeb5(0x15e)],_0x486aea='';$(window)[_0x4fdeb5(0xe4)]()>0x258?_0x486aea=_0x4fdeb5(0xdd)+$(this)['data'](_0x4fdeb5(0x123)):_0x486aea=_0x4fdeb5(0x11c);let _0x177bc8='';for(let _0xd5ccc1=0x0;_0xd5ccc1<_0x331ea1[_0x4fdeb5(0x114)];_0xd5ccc1++){_0x177bc8+=_0x4fdeb5(0x113)+_0x331ea1[_0xd5ccc1]['season_number']+_0x4fdeb5(0xe3)+_0x331ea1[_0xd5ccc1][_0x4fdeb5(0x14e)]+'\x22>'+_0x331ea1[_0xd5ccc1][_0x4fdeb5(0x13b)]+_0x4fdeb5(0xdc);}let _0x569a41=_0x4fdeb5(0xfb)+_0x4dd02e+_0x4fdeb5(0x108);var _0x5d125f=0x1,_0x4a663d=0x1,_0x305ce3=0x1;document['body'][_0x4fdeb5(0x109)](_0x4fdeb5(0x12f),_0x4fdeb5(0x112)+_0x486aea+_0x4fdeb5(0x14b)+_0x177bc8+_0x4fdeb5(0xf7)+_0x569a41+_0x4fdeb5(0xc5)),$(_0x4fdeb5(0x133))['css'](_0x4fdeb5(0xbf),_0x4fdeb5(0x107)),$(_0x4fdeb5(0x120))[_0x4fdeb5(0x157)](function(){const _0x568d7e=_0x4fdeb5;_0x5d125f==0x2?(_0x5d125f=0x1,$(_0x568d7e(0xc3))[_0x568d7e(0x165)](_0x568d7e(0x17c),_0x568d7e(0x160)+_0x4dd02e+'&tmdb=1&s='+_0x4a663d+'&e='+_0x305ce3)):(_0x5d125f=0x2,$(_0x568d7e(0xc3))[_0x568d7e(0x165)](_0x568d7e(0x17c),_0x568d7e(0xfb)+_0x4dd02e+_0x568d7e(0xf9)+_0x4a663d+_0x568d7e(0xe9)+_0x305ce3));});function _0x5b1ce2(){const _0x6d8cdb=_0x4fdeb5;$(_0x6d8cdb(0x14f))[_0x6d8cdb(0x157)](function(_0x52531b){const _0x2e8361=_0x6d8cdb;_0x52531b[_0x2e8361(0xe0)]();let _0x524585=parseInt($(this)[_0x2e8361(0x136)]('ep-count')),_0x14dca1=parseInt($(this)[_0x2e8361(0x136)]('season-number')),_0x2103b8=document['getElementById'](_0x2e8361(0xc9));_0x2103b8[_0x2e8361(0x118)]='';for(let _0x872a9b=_0x524585;_0x872a9b>=0x1;_0x872a9b--){_0x2103b8[_0x2e8361(0x109)](_0x2e8361(0x12f),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22episode\x22\x20data-ep=\x22'+_0x872a9b+_0x2e8361(0xf3)+_0x872a9b+'</div>');}_0x2103b8[_0x2e8361(0x109)](_0x2e8361(0x12f),_0x2e8361(0x127)),$('.episode')['click'](function(_0x53a042){const _0x244389=_0x2e8361;_0x53a042[_0x244389(0xe0)](),$(_0x244389(0x17b))[_0x244389(0x132)]('active'),$(this)['addClass']('active');let _0x9f3da6=$(this)[_0x244389(0x136)]('ep');_0x305ce3=parseInt(_0x9f3da6),_0x4a663d=_0x14dca1,_0x5d125f==0x2?(_0x5d125f=0x1,$(_0x244389(0xc3))[_0x244389(0x165)](_0x244389(0x17c),'https://multiembed.mov/directstream.php?video_id='+_0x4dd02e+_0x244389(0x15d)+_0x4a663d+'&e='+_0x305ce3)):(_0x5d125f=0x2,$('.watch-window\x20iframe')['attr'](_0x244389(0x17c),_0x244389(0xfb)+_0x4dd02e+'&season='+_0x4a663d+_0x244389(0xe9)+_0x305ce3));}),$(_0x2e8361(0x129))[_0x2e8361(0x157)](function(_0x21a9d0){const _0x4ec5fc=_0x2e8361;_0x21a9d0[_0x4ec5fc(0xe0)](),_0x2103b8[_0x4ec5fc(0x118)]='',_0x2103b8[_0x4ec5fc(0x109)]('afterbegin',''+_0x177bc8),_0x5b1ce2();});});}_0x5b1ce2();let _0x9a288c=document[_0x4fdeb5(0x124)]('seasons-container'),_0x5c154f=![],_0x4442c1,_0x2e3d2c;_0x9a288c[_0x4fdeb5(0xcd)]('mousedown',_0x43b2ac=>{const _0x55f229=_0x4fdeb5;_0x5c154f=!![],_0x9a288c[_0x55f229(0x167)][_0x55f229(0xd5)]('active'),_0x4442c1=_0x43b2ac[_0x55f229(0x159)]-_0x9a288c[_0x55f229(0x110)],_0x2e3d2c=_0x9a288c['scrollLeft'];}),_0x9a288c[_0x4fdeb5(0xcd)]('mouseleave',()=>{const _0x274750=_0x4fdeb5;_0x5c154f=![],_0x9a288c[_0x274750(0x167)][_0x274750(0x151)](_0x274750(0x155));}),_0x9a288c[_0x4fdeb5(0xcd)](_0x4fdeb5(0xd9),()=>{const _0x41a678=_0x4fdeb5;_0x5c154f=![],_0x9a288c[_0x41a678(0x167)][_0x41a678(0x151)]('active');}),_0x9a288c['addEventListener'](_0x4fdeb5(0x141),_0x15acb3=>{const _0x41c170=_0x4fdeb5;if(!_0x5c154f)return;_0x15acb3['preventDefault']();const _0x1981a9=_0x15acb3['pageX']-_0x9a288c[_0x41c170(0x110)],_0x504aaf=(_0x1981a9-_0x4442c1)*0x2;_0x9a288c['scrollLeft']=_0x2e3d2c-_0x504aaf;}),$(_0x4fdeb5(0x10a))[_0x4fdeb5(0x157)](function(_0x2228de){const _0xd1a3ee=_0x4fdeb5;_0x2228de['stopImmediatePropagation'](),$(_0xd1a3ee(0x175))[_0xd1a3ee(0x170)]('overflow',_0xd1a3ee(0x15f)),$(_0xd1a3ee(0x12d))[_0xd1a3ee(0x151)]();});});});},_0x3583e3+=0x1;}}}_0x3583e3==0x0&&document[_0x3d43ba(0x124)](_0x3d43ba(0xfd))[_0x3d43ba(0x109)](_0x3d43ba(0x12f),_0x3d43ba(0x17d)),$(window)[_0x3d43ba(0xe4)]()>0x258&&($(_0x3d43ba(0x17f))[_0x3d43ba(0x151)](),$(_0x3d43ba(0x175))[_0x3d43ba(0x170)](_0x3d43ba(0x164),_0x3d43ba(0x15f)));});}$(document)['ready'](function(){const _0xe81915=_0x51defa;let _0x3aeb16=0x1;$(_0xe81915(0x163))[_0xe81915(0x157)](function(_0x3b1ecc){const _0x5c1793=_0xe81915;_0x3b1ecc['stopImmediatePropagation'](),window[_0x5c1793(0xce)](baseUrl,_0x5c1793(0x122));}),$(_0xe81915(0xba))[_0xe81915(0x157)](function(_0x10c326){const _0x509ce3=_0xe81915;_0x10c326[_0x509ce3(0xe0)](),!$(this)[_0x509ce3(0xd1)](_0x509ce3(0x155))&&($(_0x509ce3(0xba))[_0x509ce3(0x132)](_0x509ce3(0x155)),$(this)[_0x509ce3(0x13f)](_0x509ce3(0x155)),type=$(this)[_0x509ce3(0x136)](_0x509ce3(0xed)),_0x3aeb16=0x1,type==_0x509ce3(0xc7)?_0x5aead9(0x1):_0x282db2(0x1));});let _0x818f4f=!![];$(_0xe81915(0x143))[_0xe81915(0x157)](function(_0x2e639d){const _0x23a3d8=_0xe81915;_0x2e639d[_0x23a3d8(0xe0)](),_0x818f4f?($(_0x23a3d8(0x106))[_0x23a3d8(0x148)]({'left':'0'},0x1f4),$('.bars\x20div:nth-child(2)')['hide'](),$(_0x23a3d8(0xf4))[_0x23a3d8(0x13f)]('r1'),$('.bars\x20div:nth-child(3)')[_0x23a3d8(0x13f)]('r2'),$(_0x23a3d8(0xf4))[_0x23a3d8(0x132)]('rb1'),$(_0x23a3d8(0xf1))[_0x23a3d8(0x132)](_0x23a3d8(0x15a)),_0x818f4f=![]):($('.side-bar')[_0x23a3d8(0x148)]({'left':'-81vw'},0x1f4),$(_0x23a3d8(0x156))[_0x23a3d8(0x154)](_0x23a3d8(0x130)),$(_0x23a3d8(0xf4))[_0x23a3d8(0x13f)](_0x23a3d8(0x121)),$(_0x23a3d8(0xf1))[_0x23a3d8(0x13f)]('rb2'),$(_0x23a3d8(0xf4))['removeClass']('r1'),$(_0x23a3d8(0xf1))[_0x23a3d8(0x132)]('r2'),_0x818f4f=!![]);}),$(_0xe81915(0xbb))[_0xe81915(0x157)](function(_0x547f8f){const _0x2360c6=_0xe81915;_0x547f8f[_0x2360c6(0xe0)]();let _0x188de9=$(this)[_0x2360c6(0x136)](_0x2360c6(0x150));if(_0x188de9==_0x2360c6(0xc7))window[_0x2360c6(0xce)](baseUrl+_0x2360c6(0xbd),_0x2360c6(0x122));else{if(_0x188de9=='series')window['open'](baseUrl+_0x2360c6(0x14d),'_self');else{if(_0x188de9==_0x2360c6(0xdb))window[_0x2360c6(0xce)](baseUrl,_0x2360c6(0x122));else _0x188de9==_0x2360c6(0xbc)&&window['open'](baseUrl+_0x2360c6(0xda),_0x2360c6(0x122));}}});function _0x282db2(_0x57875e){const _0x3e948c=_0xe81915,_0x594080={'method':_0x3e948c(0x168),'headers':{'accept':_0x3e948c(0xc6),'Authorization':_0x3e948c(0xb6)}};fetch(_0x3e948c(0x13c)+_0x57875e,_0x594080)[_0x3e948c(0x166)](_0x4cf8d0=>_0x4cf8d0[_0x3e948c(0x142)]())['then'](_0x456efe=>{const _0xa7e97e=_0x3e948c;document[_0xa7e97e(0x124)](_0xa7e97e(0xfd))['innerHTML']='';let _0x29ca22=_0x456efe[_0xa7e97e(0x158)];for(let _0x53353f=0x0;_0x53353f<_0x29ca22[_0xa7e97e(0x114)];_0x53353f++){let _0x48e687=new Date(_0x29ca22[_0x53353f]['first_air_date']),_0xc727de=new Image(),_0x4b6c19=_0xa7e97e(0xb8)+_0x29ca22[_0x53353f][_0xa7e97e(0x104)];_0xc727de[_0xa7e97e(0x17c)]=_0x4b6c19,_0xc727de[_0xa7e97e(0x153)]=function(){const _0x5bc65d=_0xa7e97e;document['getElementById']('main')[_0x5bc65d(0x109)](_0x5bc65d(0x146),_0x5bc65d(0x11a)+_0x29ca22[_0x53353f]['id']+_0x5bc65d(0x172)+_0x29ca22[_0x53353f]['name']+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+_0x4b6c19+_0x5bc65d(0x17e)+_0x29ca22[_0x53353f][_0x5bc65d(0x13b)]+_0x5bc65d(0x12b)+_0x48e687['getFullYear']()+_0x5bc65d(0xe7)+_0x29ca22[_0x53353f][_0x5bc65d(0x13b)]+_0x5bc65d(0xff)),$(_0x5bc65d(0xf2))['on'](_0x5bc65d(0x157),function(_0x160ac1){const _0x15877d=_0x5bc65d;_0x160ac1[_0x15877d(0xe0)](),_0x59eeaf();let _0x54a6fa=$(this)[_0x15877d(0x136)]('id');$(_0x15877d(0x175))[_0x15877d(0x170)](_0x15877d(0x164),_0x15877d(0xea));const _0x2e17bf={'method':_0x15877d(0x168),'headers':{'accept':_0x15877d(0xc6),'Authorization':_0x15877d(0xb6)}};fetch(_0x15877d(0x10e)+_0x54a6fa+_0x15877d(0x174),_0x2e17bf)[_0x15877d(0x166)](_0x3479ab=>_0x3479ab[_0x15877d(0x142)]())[_0x15877d(0x166)](_0x2ba87e=>{const _0x580282=_0x15877d;let _0x33f6d0=_0x2ba87e[_0x580282(0x15e)],_0x551b06='';$(window)[_0x580282(0xe4)]()>0x258?_0x551b06='Download\x20'+$(this)['data'](_0x580282(0x123)):_0x551b06=_0x580282(0x11c);let _0x32ea95='';for(let _0x1b90ea=0x0;_0x1b90ea<_0x33f6d0[_0x580282(0x114)];_0x1b90ea++){_0x32ea95+=_0x580282(0xca)+_0x33f6d0[_0x1b90ea][_0x580282(0xbe)]+_0x580282(0xe3)+_0x33f6d0[_0x1b90ea]['episode_count']+'\x22>'+_0x33f6d0[_0x1b90ea][_0x580282(0x13b)]+'</div>';}let _0x2bc0c9=_0x580282(0xfb)+_0x54a6fa+_0x580282(0x108);var _0x167c6b=0x1,_0x11b4e9=0x1,_0x2b5550=0x1;document[_0x580282(0xcc)][_0x580282(0x109)](_0x580282(0x12f),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22watch-window\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22dl-button\x22\x20onclick=\x22window.open(\x27https://mordoops.com/4/7777606\x27,\x20\x27_blank\x27);\x22>'+_0x551b06+_0x580282(0x100)+_0x32ea95+_0x580282(0x131)+_0x2bc0c9+'\x22\x20allowfullscreen></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>'),$(_0x580282(0x133))['css'](_0x580282(0xbf),_0x580282(0x107)),$(_0x580282(0x120))[_0x580282(0x157)](function(){const _0x4d4a02=_0x580282;_0x167c6b==0x2?(_0x167c6b=0x1,$(_0x4d4a02(0xc3))[_0x4d4a02(0x165)](_0x4d4a02(0x17c),'https://multiembed.mov/directstream.php?video_id='+_0x54a6fa+_0x4d4a02(0x15d)+_0x11b4e9+'&e='+_0x2b5550)):(_0x167c6b=0x2,$(_0x4d4a02(0xc3))['attr'](_0x4d4a02(0x17c),_0x4d4a02(0xfb)+_0x54a6fa+_0x4d4a02(0xf9)+_0x11b4e9+_0x4d4a02(0xe9)+_0x2b5550));});function _0x3e047d(){const _0x565cd7=_0x580282;$('.seasons-container\x20>\x20div')[_0x565cd7(0x157)](function(_0x172995){const _0x20714f=_0x565cd7;_0x172995[_0x20714f(0xe0)]();let _0x3861a4=parseInt($(this)[_0x20714f(0x136)](_0x20714f(0x16c))),_0x5ca91e=parseInt($(this)[_0x20714f(0x136)](_0x20714f(0xfe))),_0x508db4=document[_0x20714f(0x124)](_0x20714f(0xc9));_0x508db4[_0x20714f(0x118)]='';for(let _0xfc8d3b=_0x3861a4;_0xfc8d3b>=0x1;_0xfc8d3b--){_0x508db4[_0x20714f(0x109)](_0x20714f(0x12f),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22episode\x22\x20data-ep=\x22'+_0xfc8d3b+_0x20714f(0xf3)+_0xfc8d3b+_0x20714f(0xdc));}_0x508db4[_0x20714f(0x109)]('afterbegin','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22back\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20width=\x2220\x22\x20height=\x2220\x22\x20fill=\x22#fff\x22\x20class=\x22bi\x20bi-chevron-double-left\x22\x20viewBox=\x220\x200\x2016\x2016\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20fill-rule=\x22evenodd\x22\x20d=\x22M8.354\x201.646a.5.5\x200\x200\x201\x200\x20.708L2.707\x208l5.647\x205.646a.5.5\x200\x200\x201-.708.708l-6-6a.5.5\x200\x200\x201\x200-.708l6-6a.5.5\x200\x200\x201\x20.708\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<path\x20fill-rule=\x22evenodd\x22\x20d=\x22M12.354\x201.646a.5.5\x200\x200\x201\x200\x20.708L6.707\x208l5.647\x205.646a.5.5\x200\x200\x201-.708.708l-6-6a.5.5\x200\x200\x201\x200-.708l6-6a.5.5\x200\x200\x201\x20.708\x200\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>'),$(_0x20714f(0x17b))[_0x20714f(0x157)](function(_0x1dc019){const _0x25cdd4=_0x20714f;_0x1dc019[_0x25cdd4(0xe0)](),$(_0x25cdd4(0x17b))[_0x25cdd4(0x132)](_0x25cdd4(0x155)),$(this)['addClass'](_0x25cdd4(0x155));let _0x1652ad=$(this)['data']('ep');_0x2b5550=parseInt(_0x1652ad),_0x11b4e9=_0x5ca91e,_0x167c6b==0x2?(_0x167c6b=0x1,$('.watch-window\x20iframe')[_0x25cdd4(0x165)](_0x25cdd4(0x17c),_0x25cdd4(0x160)+_0x54a6fa+_0x25cdd4(0x15d)+_0x11b4e9+_0x25cdd4(0xe6)+_0x2b5550)):(_0x167c6b=0x2,$(_0x25cdd4(0xc3))['attr']('src','https://vidsrc.me/embed/tv?tmdb='+_0x54a6fa+_0x25cdd4(0xf9)+_0x11b4e9+_0x25cdd4(0xe9)+_0x2b5550));}),$('.back')[_0x20714f(0x157)](function(_0x23c2ed){const _0x2925b4=_0x20714f;_0x23c2ed[_0x2925b4(0xe0)](),_0x508db4[_0x2925b4(0x118)]='',_0x508db4[_0x2925b4(0x109)](_0x2925b4(0x12f),''+_0x32ea95),_0x3e047d();});});}_0x3e047d();let _0x4318ff=document[_0x580282(0x124)](_0x580282(0xc9)),_0x1c390b=![],_0x10d886,_0x5756dc;_0x4318ff[_0x580282(0xcd)]('mousedown',_0x2fe277=>{const _0x5ab451=_0x580282;_0x1c390b=!![],_0x4318ff[_0x5ab451(0x167)][_0x5ab451(0xd5)](_0x5ab451(0x155)),_0x10d886=_0x2fe277[_0x5ab451(0x159)]-_0x4318ff[_0x5ab451(0x110)],_0x5756dc=_0x4318ff['scrollLeft'];}),_0x4318ff['addEventListener'](_0x580282(0x16b),()=>{const _0x6ad88c=_0x580282;_0x1c390b=![],_0x4318ff[_0x6ad88c(0x167)][_0x6ad88c(0x151)](_0x6ad88c(0x155));}),_0x4318ff[_0x580282(0xcd)](_0x580282(0xd9),()=>{const _0x587503=_0x580282;_0x1c390b=![],_0x4318ff[_0x587503(0x167)][_0x587503(0x151)](_0x587503(0x155));}),_0x4318ff[_0x580282(0xcd)]('mousemove',_0x4dc51f=>{const _0x1df321=_0x580282;if(!_0x1c390b)return;_0x4dc51f[_0x1df321(0xcf)]();const _0x3dd6cf=_0x4dc51f[_0x1df321(0x159)]-_0x4318ff[_0x1df321(0x110)],_0x35254e=(_0x3dd6cf-_0x10d886)*0x2;_0x4318ff['scrollLeft']=_0x5756dc-_0x35254e;}),$(_0x580282(0x10a))[_0x580282(0x157)](function(_0x3669c8){const _0x3017e9=_0x580282;_0x3669c8[_0x3017e9(0xe0)](),$(_0x3017e9(0x175))[_0x3017e9(0x170)](_0x3017e9(0x164),'auto'),$(_0x3017e9(0x12d))[_0x3017e9(0x151)]();});});});};}document[_0xa7e97e(0x124)](_0xa7e97e(0x144))[_0xa7e97e(0x118)]=_0x57875e;});}if($(window)[_0xe81915(0xe4)]()>0x258)$('.search')['click'](function(_0x192854){const _0x58bfc4=_0xe81915;_0x192854[_0x58bfc4(0xe0)]();let _0x134560=_0x58bfc4(0xd6);$('html,\x20body')['css'](_0x58bfc4(0x164),'hidden'),document['body'][_0x58bfc4(0x109)](_0x58bfc4(0x12f),_0x58bfc4(0x179)),document['getElementById'](_0x58bfc4(0x117))[_0x58bfc4(0x161)](),$(_0x58bfc4(0x17f))[_0x58bfc4(0x157)](function(_0x3ea69a){const _0x15246e=_0x58bfc4;$('html,\x20body')[_0x15246e(0x170)](_0x15246e(0x164),_0x15246e(0x15f)),$(this)[_0x15246e(0x151)]();}),$('.type\x20>\x20div')['click'](function(_0x2392b4){const _0x3da793=_0x58bfc4;_0x2392b4[_0x3da793(0xe0)](),$('.type\x20>\x20div')[_0x3da793(0x132)](_0x3da793(0x155)),$(this)[_0x3da793(0x13f)](_0x3da793(0x155)),_0x134560=$(this)['data']('t');}),$(_0x58bfc4(0xc0))['click'](function(_0x1657c3){const _0x497d06=_0x58bfc4;_0x1657c3[_0x497d06(0xe0)]();});let _0x3acef2=document[_0x58bfc4(0x124)](_0x58bfc4(0x117));_0x3acef2[_0x58bfc4(0xcd)]('keydown',function(_0x410cf9){const _0x5e925a=_0x58bfc4;_0x410cf9['key']===_0x5e925a(0x17a)&&search(this['value'],_0x134560);}),$(_0x58bfc4(0x16a))[_0x58bfc4(0x157)](function(_0x3e85a4){const _0x20f99a=_0x58bfc4;_0x3e85a4[_0x20f99a(0xe0)](),search(_0x3acef2[_0x20f99a(0xf8)],_0x134560);});});else{let _0x4905e9=_0xe81915(0xd6),_0x205a1e=document[_0xe81915(0x124)](_0xe81915(0x10d));_0x205a1e['addEventListener'](_0xe81915(0x103),function(_0x1813e1){const _0x50a14a=_0xe81915;_0x1813e1[_0x50a14a(0x162)]==='Enter'&&(search(this[_0x50a14a(0xf8)],_0x4905e9),this['value']='',$(_0x50a14a(0x106))[_0x50a14a(0x148)]({'left':_0x50a14a(0x13a)},0x1f4));}),$(_0xe81915(0x126))[_0xe81915(0x157)](function(_0x12deda){const _0x303221=_0xe81915;_0x12deda[_0x303221(0xe0)](),$(_0x303221(0xeb))[_0x303221(0x132)](_0x303221(0x155)),$(this)[_0x303221(0x13f)](_0x303221(0x155)),_0x4905e9=$(this)[_0x303221(0x136)]('t');}),$(_0xe81915(0x119))[_0xe81915(0x157)](function(_0x430e6e){const _0x2e5be2=_0xe81915;_0x430e6e[_0x2e5be2(0xe0)](),search(_0x205a1e[_0x2e5be2(0xf8)],_0x4905e9),_0x205a1e[_0x2e5be2(0xf8)]='',$(_0x2e5be2(0x106))[_0x2e5be2(0x148)]({'left':_0x2e5be2(0x13a)},0x1f4);});function _0x4c2062(_0x57fb68,_0x1a434d){const _0x124083=_0xe81915,_0x8cca72=_0x57fb68[_0x124083(0xc8)],_0x4cbc00=_0x1a434d['parentNode'],_0x3fba70=_0x57fb68['nextSibling']===_0x1a434d?_0x57fb68:_0x57fb68[_0x124083(0x11d)],_0x4e0efb=_0x1a434d[_0x124083(0x11d)]===_0x57fb68?_0x1a434d:_0x1a434d[_0x124083(0x11d)];_0x4cbc00['insertBefore'](_0x57fb68,_0x4e0efb),_0x8cca72[_0x124083(0xd3)](_0x1a434d,_0x3fba70);}const _0x202845=document['getElementById'](_0xe81915(0xb4)),_0x35a6d7=document['getElementById']('tmdb');_0x4c2062(_0x202845,_0x35a6d7);let _0x4e7d17=!![];$(_0xe81915(0x143))[_0xe81915(0x157)](function(_0xd99b){const _0x2241a5=_0xe81915;_0xd99b[_0x2241a5(0xe0)](),_0x4e7d17?($(_0x2241a5(0x106))[_0x2241a5(0x148)]({'left':'0'},0x1f4),$(_0x2241a5(0x156))['hide'](),$(_0x2241a5(0xf4))['addClass']('r1'),$(_0x2241a5(0xf1))[_0x2241a5(0x13f)]('r2'),$(_0x2241a5(0xf4))[_0x2241a5(0x132)](_0x2241a5(0x121)),$(_0x2241a5(0xf1))['removeClass'](_0x2241a5(0x15a)),_0x4e7d17=![]):($(_0x2241a5(0x106))[_0x2241a5(0x148)]({'left':_0x2241a5(0x13a)},0x1f4),$(_0x2241a5(0x156))[_0x2241a5(0x154)]('1000'),$(_0x2241a5(0xf4))['addClass'](_0x2241a5(0x121)),$('.bars\x20div:nth-child(3)')[_0x2241a5(0x13f)](_0x2241a5(0x15a)),$(_0x2241a5(0xf4))['removeClass']('r1'),$(_0x2241a5(0xf1))[_0x2241a5(0x132)]('r2'),_0x4e7d17=!![]);});}_0x5aead9(_0x3aeb16);function _0x5aead9(_0xcf70d1){const _0x5a3dda=_0xe81915,_0x1f1a7b={'method':_0x5a3dda(0x168),'headers':{'accept':_0x5a3dda(0xc6),'Authorization':_0x5a3dda(0x10f)}},_0x20efcd=new Date()[_0x5a3dda(0xf5)]()[_0x5a3dda(0x169)]('T')[0x0];fetch('https://api.themoviedb.org/3/discover/movie?with_genres=16&with_original_language=ja&include_adult=false&sort_by=release_date.desc&release_date.lte='+_0x20efcd+_0x5a3dda(0x101)+_0xcf70d1,_0x1f1a7b)[_0x5a3dda(0x166)](_0x440057=>_0x440057[_0x5a3dda(0x142)]())[_0x5a3dda(0x166)](_0x3a5efe=>{const _0x48dd80=_0x5a3dda;document['getElementById'](_0x48dd80(0xfd))[_0x48dd80(0x118)]='';let _0x11814e=_0x3a5efe[_0x48dd80(0x158)];for(let _0x18cb7c=0x0;_0x18cb7c<_0x11814e[_0x48dd80(0x114)];_0x18cb7c++){let _0x1dba50=new Date(_0x11814e[_0x18cb7c][_0x48dd80(0xef)]),_0x5ed79e=new Image(),_0x1706bb=_0x48dd80(0xb8)+_0x11814e[_0x18cb7c][_0x48dd80(0x104)];_0x5ed79e[_0x48dd80(0x17c)]=_0x1706bb,_0x5ed79e[_0x48dd80(0x153)]=function(){const _0x14906f=_0x48dd80;document[_0x14906f(0x124)]('main')[_0x14906f(0x109)]('beforeend',_0x14906f(0xdf)+_0x11814e[_0x18cb7c]['id']+_0x14906f(0x172)+_0x11814e[_0x18cb7c]['title']+_0x14906f(0x16d)+_0x1706bb+_0x14906f(0x17e)+_0x11814e[_0x18cb7c][_0x14906f(0x123)]+_0x14906f(0x12b)+_0x1dba50['getFullYear']()+_0x14906f(0xe7)+_0x11814e[_0x18cb7c][_0x14906f(0x123)]+_0x14906f(0xff)),$('.movie')['on'](_0x14906f(0x157),function(_0x526bc0){const _0x41e29b=_0x14906f;_0x526bc0[_0x41e29b(0xe0)](),_0x59eeaf();let _0x53740f=$(this)[_0x41e29b(0x136)]('id');$(_0x41e29b(0x175))[_0x41e29b(0x170)](_0x41e29b(0x164),_0x41e29b(0xea));let _0x3bd132='';$(window)[_0x41e29b(0xe4)]()>0x258?_0x3bd132=_0x41e29b(0xdd)+$(this)[_0x41e29b(0x136)](_0x41e29b(0x123)):_0x3bd132=_0x41e29b(0x11c);let _0x1bd876='https://vidsrc.me/embed/movie?tmdb='+_0x53740f;document[_0x41e29b(0xcc)][_0x41e29b(0x109)](_0x41e29b(0x12f),_0x41e29b(0x176)+_0x3bd132+_0x41e29b(0x147)+_0x1bd876+'\x22\x20allowfullscreen></iframe>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>'),$(_0x41e29b(0x133))[_0x41e29b(0x170)](_0x41e29b(0xbf),_0x41e29b(0xe5));let _0x4865bd=0x1;$(_0x41e29b(0x120))['click'](function(){const _0x1bb02e=_0x41e29b;_0x4865bd==0x1?(_0x4865bd=0x2,$(_0x1bb02e(0xc3))[_0x1bb02e(0x165)]('src','https://multiembed.mov/directstream.php?video_id='+_0x53740f+_0x1bb02e(0x13d))):(_0x4865bd=0x1,$(_0x1bb02e(0xc3))['attr'](_0x1bb02e(0x17c),_0x1bb02e(0x171)+_0x53740f));}),$('.close-button')[_0x41e29b(0x157)](function(_0x54c6b3){const _0x3aa1ce=_0x41e29b;_0x54c6b3['stopImmediatePropagation'](),$('html,\x20body')[_0x3aa1ce(0x170)]('overflow',_0x3aa1ce(0x15f)),$(_0x3aa1ce(0x12d))['remove']();});});};}setTimeout(()=>{const _0x2bcfbd=_0x48dd80;$(_0x2bcfbd(0xcb))['animate']({'opacity':'0'},_0x2bcfbd(0xc4)),$(_0x2bcfbd(0xb5))['addClass'](_0x2bcfbd(0xe1));},0x3e8),setTimeout(function(){const _0x56d60c=_0x48dd80;$(_0x56d60c(0xcb))['remove'](),$(_0x56d60c(0xb5))[_0x56d60c(0x151)]();},0x7d0),document[_0x48dd80(0x124)]('page-num')['innerHTML']=_0xcf70d1;});}$('#jump')['click'](function(_0x40443d){const _0x38eddc=_0xe81915;_0x40443d[_0x38eddc(0xe0)](),$('#jump-page')['val']()!==''&&(document[_0x38eddc(0x124)](_0x38eddc(0xfd))[_0x38eddc(0x11e)]({'behavior':'smooth'}),_0x3aeb16=parseInt($(_0x38eddc(0xe2))[_0x38eddc(0xd0)]()),type==_0x38eddc(0xc7)?_0x5aead9(_0x3aeb16):_0x282db2(_0x3aeb16),$(_0x38eddc(0xe2))['val'](''));}),$(_0xe81915(0x116))['click'](function(_0x456d8a){const _0x56d077=_0xe81915;_0x456d8a[_0x56d077(0xe0)](),_0x3aeb16+=0x1,type=='movies'?_0x5aead9(_0x3aeb16):_0x282db2(_0x3aeb16),document[_0x56d077(0x124)](_0x56d077(0xfd))[_0x56d077(0x11e)]({'behavior':_0x56d077(0x13e)});}),$(_0xe81915(0x16e))[_0xe81915(0x157)](function(_0x552544){const _0x14fa4d=_0xe81915;_0x552544[_0x14fa4d(0xe0)](),_0x3aeb16>0x1&&(_0x3aeb16-=0x1,type==_0x14fa4d(0xc7)?_0x5aead9(_0x3aeb16):_0x282db2(_0x3aeb16),document[_0x14fa4d(0x124)](_0x14fa4d(0xfd))['scrollIntoView']({'behavior':_0x14fa4d(0x13e)}));});});function _0x4c25(_0x3b5313,_0x554123){const _0x36e569=_0x36e5();return _0x4c25=function(_0x4c25c5,_0x37cb66){_0x4c25c5=_0x4c25c5-0xb4;let _0x4a1c72=_0x36e569[_0x4c25c5];return _0x4a1c72;},_0x4c25(_0x3b5313,_0x554123);}async function checkVideoAvailability(_0x3224e1){const _0x544b02=_0x51defa;try{const _0x1f149f=await fetch(_0x3224e1,{'method':'HEAD'});return _0x1f149f['ok']?!![]:![];}catch(_0x33e9dc){return console[_0x544b02(0x11f)]('Network\x20error\x20or\x20video\x20is\x20unavailable:',_0x33e9dc),![];}}
+import mediaNotif from "../module.js";
+var type = 'movies';
+var baseUrl = window.location.origin;
+
+var options = {
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8'
+    }
+};
+
+var GENRES = [{genre: 'Anime', name : 'anime'}, {genre: 'Animated TV Shows', name: 'animated-tv-shows'}, {genre: 'Action', name: 'action'}, {genre: 'Chinese', name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Horror', name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name: 'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
+
+
+function search(s, type) {
+    $(".show-options").hide();
+    if (type == 'movie') {
+        fetch(`https://api.themoviedb.org/3/search/movie?query=${encodeURIComponent(s)}&include_adult=false`, options)
+        .then(response => response.json())
+        .then(response => {
+            response = response.results;
+    
+            document.getElementById("con-title").innerHTML = "Result for: " + s;
+            document.getElementById("main").innerHTML = "";
+            $(".page-navigation").hide();
+    
+            let x = 0;
+            for (let j = response.length - 1; j >= 0; j--) {
+                if (response[j].release_date != '') {
+                    let releaseDate = new Date(response[j].release_date);
+                    let year = releaseDate.getFullYear();
+                    year = year.toString();
+                    
+                    if (response[j].poster_path != null) {
+                        let url = `https://image.tmdb.org/t/p/w400${response[j].poster_path}`;
+                        let img = new Image();
+                        img.src = url;
+                        img.onload = function() {
+                            document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                            <div>
+                                <div class="movie" data-id='${response[j].id}' data-title="${response[j].title}">
+                                    <img src="${url}" alt="${response[j].title}"/>
+                                    <p class="text-center"><span>(${year})</span><br>${response[j].title} </p>
+                                </div>
+                            </div>`);
+                            
+    
+                            $(".movie").on("click", function(event){
+                                event.stopImmediatePropagation();
+                                mediaNotif();
+                                let data = $(this).data("id");
+                    
+                                $("html, body").css("overflow", "hidden");
+                    
+                                let str = "";
+                                if ($(window).width() > 600) {
+                                    str = `Download ${$(this).data("title")}`;
+                                } else {
+                                    str = `Download`;
+                                }
+                                
+                                let videoUrl = `https://vidsrc.me/embed/movie?tmdb=${data}`; // Replace with your actual video URL
+                                
+                                document.body.insertAdjacentHTML("afterbegin", `
+                                <div class="watch-window">
+                                    <div>
+                                        <div class="dl-button" onclick="window.open('https://mordoops.com/4/7777606', '_blank')">${str}</div>
+                                        <div class="change-server-button">Change server</div>
+                                        <div class="close-button">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                            <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                            </svg>
+                                        </div>
+                                        <iframe src="${videoUrl}" onerror="handleError()" allowfullscreen></iframe>
+                                    </div>
+                                </div>`);
+                                $(".dl-button, .change-server-button").css("bottom", "-35px");
+                         
+                                let serverChanged = false;
+                                $(".change-server-button").click(function(){
+                                    if (!serverChanged){
+                                        
+                                        serverChanged = true;
+                                        $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1`)
+                                    } else {
+                                        serverChanged = false;
+                                        $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
+                                    }
+                                    
+                                })
+                    
+                                $(".close-button").click(function(event){
+                                    event.stopImmediatePropagation();
+                                    $("html, body").css("overflow", "auto");
+                                    $(".watch-window").remove();
+                                })
+                                
+                                
+                                
+                            })
+                        }
+    
+                        x += 1;
+                    }
+                }
+            }
+    
+            if (x == 0) {
+                document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                <div>Not found</div>`);
+            }
+    
+            if ($(window).width() > 600) {
+                $(".search-window").remove();
+                $("html, body").css("overflow", "auto");
+            }
+        })
+    } else {
+        fetch(`https://api.themoviedb.org/3/search/tv?query=${encodeURIComponent(s)}&include_adult=false`, options)
+        .then(response => response.json())
+        .then(response => {
+            response = response.results;
+    
+            document.getElementById("con-title").innerHTML = "Result for: " + s;
+            document.getElementById("main").innerHTML = "";
+            $(".page-navigation").hide();
+    
+            let x = 0;
+            for (let j = response.length - 1; j >= 0; j--) {
+                if (response[j].first_air_date != '') {
+                    let releaseDate = new Date(response[j].first_air_date);
+                    let year = releaseDate.getFullYear();
+                    year = year.toString();
+                    
+                    if (response[j].poster_path != null) {
+                        let url = `https://image.tmdb.org/t/p/w400${response[j].poster_path}`;
+                        let img = new Image();
+                        img.src = url;
+                        img.onload = function() {
+                            document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                            <div>
+                                <div class="series" data-id='${response[j].id}' data-title="${response[j].name}">
+                                    <img src="${url}" alt="${response[j].name}"/>
+                                    <p class="text-center"><span>(${year})</span><br>${response[j].name} </p>
+                                </div>
+                            </div>`);
+    
+                            $(".series").on("click", function(event){
+                                event.stopImmediatePropagation();
+                                mediaNotif();
+                                let data = $(this).data("id");
+                                $("html, body").css("overflow", "hidden");
+        
+                                const options = {
+                                    method: 'GET',
+                                    headers: {
+                                        accept: 'application/json',
+                                        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
+                                    }
+                                };
+                                    
+                                fetch(`https://api.themoviedb.org/3/tv/${data}?language=en-US`, options)
+                                .then(response => response.json())
+                                .then(response => {
+                                    let seasons = response.seasons;
+                                    
+                                    let str = "";
+                                    if ($(window).width() > 600) {
+                                        str = `Download ${$(this).data("title")}`;
+                                    } else {
+                                        str = `Download`;
+                                    }
+                                    let s = "";
+                                    for (let i = 0; i < seasons.length; i++) {
+                                        s += `
+                                        <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">${seasons[i].name}</div>`;
+                                    }
+                                    
+                                    
+                                    let videoUrl = `https://vidsrc.me/embed/tv?tmdb=${data}&season=1&episode=1`; // Replace with your actual video URL
+                                    var server = 1;
+                                    var season_num = 1;
+                                    var ep_num = 1;
+                                    document.body.insertAdjacentHTML("afterbegin", `
+                                    <div class="watch-window">
+                                        <div>
+                                            <div class="dl-button" onclick="window.open('https://mordoops.com/4/7777606', '_blank');">${str}</div>
+                                            <div class="change-server-button">Change server</div>
+                                            <div class="seasons-container" id="seasons-container">${s}</div>
+                                            <div class="close-button">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                                <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                                </svg>
+                                            </div>
+                                            <iframe id="show" src="${videoUrl}" allowfullscreen></iframe>
+                                        </div>
+                                    </div>`);
+                                    
+                                    
+                                    $(".dl-button, .change-server-button").css("bottom", "-90px");
+                                    let serverChanged = false;
+                                    $(".change-server-button").click(function(){
+                                        if (!serverChanged) {
+                                            $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1&s=${season_num}&e=${ep_num}`);
+                                            serverChanged = true;
+                                        } else {
+                                            $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/tv?tmdb=${data}&season=${season_num}&episode=${ep_num}`); 
+                                            serverChanged = false;
+                                        }
+                                    
+                                    })
+                                        
+                                    
+                                    function attachSeasonClickEvents() {
+                                        $(".seasons-container > div").click(function(event){
+                                            event.stopImmediatePropagation();
+                                            let epCount = parseInt($(this).data("ep-count"));
+                                            let season = parseInt($(this).data("season-number"));
+                                            let seasonsContainer = document.getElementById("seasons-container");
+                                            seasonsContainer.innerHTML = "";
+                                            for (let i = epCount; i >= 1; i--) {
+                                                seasonsContainer.insertAdjacentHTML("afterbegin", `
+                                                <div class="episode" data-ep="${i}">Episode ${i}</div>`);
+                                            }
+        
+                                            seasonsContainer.insertAdjacentHTML("afterbegin", `
+                                            <div class="back">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" class="bi bi-chevron-double-left" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M8.354 1.646a.5.5 0 0 1 0 .708L2.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0"/>
+                                                <path fill-rule="evenodd" d="M12.354 1.646a.5.5 0 0 1 0 .708L6.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0"/>
+                                                </svg>
+                                            </div>`);
+        
+                                            $(".episode").click(function(event){
+                                                event.stopImmediatePropagation();
+                                                $(".episode").removeClass("active");
+                                                $(this).addClass("active");
+                                                let ep = $(this).data("ep");
+                                                ep_num = parseInt(ep);
+                                                season_num = season;
+                                                if(serverChanged){
+                                                    
+                                                    $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1&s=${season_num}&e=${ep_num}`)
+                                                } else {
+                                                 
+                                                    $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/tv?tmdb=${data}&season=${season_num}&episode=${ep_num}`); 
+                                                }
+                                            
+                                                
+                                            })
+        
+                                            $(".back").click(function(event){
+                                                event.stopImmediatePropagation();
+                                                seasonsContainer.innerHTML = "";
+                                                seasonsContainer.insertAdjacentHTML("afterbegin", `${s}`);
+                                                attachSeasonClickEvents();
+                                            })
+                                        })
+                                    }
+        
+                                    attachSeasonClickEvents();
+        
+                                    let slider = document.getElementById("seasons-container");
+                                    let isDown = false;
+                                    let startX;
+                                    let scrollLeft;
+        
+                                    slider.addEventListener('mousedown', (e) => {
+                                        isDown = true;
+                                        slider.classList.add('active');
+                                        startX = e.pageX - slider.offsetLeft;
+                                        scrollLeft = slider.scrollLeft;
+                                    });
+        
+                                    slider.addEventListener('mouseleave', () => {
+                                        isDown = false;
+                                        slider.classList.remove('active');
+                                    });
+        
+                                    slider.addEventListener('mouseup', () => {
+                                        isDown = false;
+                                        slider.classList.remove('active');
+                                    });
+        
+                                    slider.addEventListener('mousemove', (e) => {
+                                        if (!isDown) return;
+                                        e.preventDefault();
+                                        const x = e.pageX - slider.offsetLeft;
+                                        const walk = (x - startX) * 2; // scroll-fast
+                                        slider.scrollLeft = scrollLeft - walk;
+                                    });
+        
+                                    $(".close-button").click(function(event){
+                                        event.stopImmediatePropagation();
+                                        $("html, body").css("overflow", "auto");
+                                        $(".watch-window").remove();
+                                    })
+                                    
+                                    
+        
+                                    
+                                })
+                            })
+                        }
+    
+                        x += 1;
+                    }
+                }
+            }
+    
+            if (x == 0) {
+                document.getElementById("main").insertAdjacentHTML("afterbegin", `
+                <div>Not found :(</div><br><br>`);
+            }
+    
+            if ($(window).width() > 600) {
+                $(".search-window").remove();
+                $("html, body").css("overflow", "auto");
+            }
+        })
+    }
+    
+}
+
+$(document).ready(function() {
+    let page = 1;
+
+    $(".logo-container, .home").click(function(event){
+        event.stopImmediatePropagation();
+        window.open(baseUrl, "_self");
+    })
+
+    $(".show-options > div").click(function(event){
+        event.stopImmediatePropagation();
+        if (!$(this).hasClass("active")){
+          $(".show-options > div").removeClass("active");
+          $(this).addClass("active");
+          type = $(this).data("opt");
+          page = 1;
+          (type == 'movies') ? fetchMovies(1) : fetchSeries(1);
+        }
+        
+    })
+    let hidden = true;
+    $(".bars").click(function(event){
+        event.stopImmediatePropagation();
+        if (hidden) {
+            $(".side-bar").animate({
+                "left" : "0",
+            }, 500);
+            
+            $(".bars div:nth-child(2)").hide();
+            $(".bars div:nth-child(1)").addClass("r1");
+            $(".bars div:nth-child(3)").addClass("r2");
+            $(".bars div:nth-child(1)").removeClass("rb1");
+            $(".bars div:nth-child(3)").removeClass("rb2");
+            hidden = false;
+            
+        } else {
+                $(".side-bar").animate({
+                "left" : "-81vw",
+            }, 500);
+            $(".bars div:nth-child(2)").show("1000");
+            $(".bars div:nth-child(1)").addClass("rb1");
+            $(".bars div:nth-child(3)").addClass("rb2");
+            $(".bars div:nth-child(1)").removeClass("r1");
+            $(".bars div:nth-child(3)").removeClass("r2");
+
+            hidden = true;
+
+        }
+    })
+
+    $(".side-bar ul li, header ul li").click(function(event){
+        event.stopImmediatePropagation();
+        let t =$(this).data('type');
+        if (t == 'movies') {
+            window.open(baseUrl + "/movies/", "_self");
+        } else if (t == "series"){
+            window.open(baseUrl + "/series/", "_self");
+        } else if (t == "home"){
+            window.open(baseUrl, "_self");
+        } else if (t == "privacy"){
+            window.open(baseUrl + "/privacy-policy/", "_self");
+        }
+    })
+
+    function fetchSeries(n) {
+        const options = {
+            method: 'GET',
+            headers: {
+                accept: 'application/json',
+                Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
+            }
+        };
+        fetch(`https://api.themoviedb.org/3/discover/tv?with_genres=16&with_original_language=ja&include_adult=false&sort_by=first_air_date.desc&page=${n}`, options)
+        .then(response => response.json())
+        .then(response => {
+            document.getElementById("main").innerHTML = "";
+          
+            let series = response.results;
+
+            for (let i = 0; i < series.length; i++) {
+                let date = new Date(series[i].first_air_date);
+                let img = new Image();
+                let url = `https://image.tmdb.org/t/p/w400${series[i].poster_path}`;
+                img.src = url;
+                img.onload = function() {
+                    document.getElementById('main').insertAdjacentHTML("beforeend", 
+                    `<div>
+                        <div class="series" data-id='${series[i].id}' data-title="${series[i].name}">
+                            <img src="${url}" alt="${series[i].name}"/>
+                            <p class="text-center"><span>(${date.getFullYear()})</span><br>${series[i].name} </p>
+                        </div>
+                    </div>`);
+
+                    $(".series").on("click", function(event){
+                        event.stopImmediatePropagation();
+                        mediaNotif();
+                        let data = $(this).data("id");
+                        $("html, body").css("overflow", "hidden");
+
+                        const options = {
+                            method: 'GET',
+                            headers: {
+                                accept: 'application/json',
+                                Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzQzNzkxMC4zNDU1ODUsInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.E55fxbj6KLmsakJ255HNXD4D2KjcCAmaYMdlt-AlirA'
+                            }
+                        };
+                            
+                        fetch(`https://api.themoviedb.org/3/tv/${data}?language=en-US`, options)
+                        .then(response => response.json())
+                        .then(response => {
+                            let seasons = response.seasons;
+                            
+                            let str = "";
+                            if ($(window).width() > 600) {
+                                str = `Download ${$(this).data("title")}`;
+                            } else {
+                                str = `Download`;
+                            }
+                            let s = "";
+                            for (let i = 0; i < seasons.length; i++) {
+                                s += `
+                                <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">${seasons[i].name}</div>`;
+                            }
+                            
+                            
+                            let videoUrl = `https://vidsrc.me/embed/tv?tmdb=${data}&season=1&episode=1`; // Replace with your actual video URL
+                            var server = 1;
+                            var season_num = 1;
+                            var ep_num = 1;
+                            document.body.insertAdjacentHTML("afterbegin", `
+                            <div class="watch-window">
+                                <div>
+                                    <div class="dl-button" onclick="window.open('https://mordoops.com/4/7777606', '_blank');">${str}</div>
+                                    <div class="change-server-button">Change server</div>
+                                    <div class="seasons-container" id="seasons-container">${s}</div>
+                                    <div class="close-button">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                        <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                        </svg>
+                                    </div>
+                                    <iframe id="show" src="${videoUrl}" allowfullscreen></iframe>
+                                </div>
+                            </div>`);
+
+                            $(".dl-button, .change-server-button").css("bottom", "-90px");
+                            let serverChanged = false;
+                            $(".change-server-button").click(function(){
+                                if (!serverChanged) {
+                                    $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1&s=${season_num}&e=${ep_num}`);
+                                    serverChanged = true;
+                                } else {
+                                    $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/tv?tmdb=${data}&season=${season_num}&episode=${ep_num}`); 
+                                    serverChanged = false;
+                                }
+                            
+                            })
+                            
+                            function attachSeasonClickEvents() {
+                                $(".seasons-container > div").click(function(event){
+                                    event.stopImmediatePropagation();
+                                    let epCount = parseInt($(this).data("ep-count"));
+                                    let season = parseInt($(this).data("season-number"));
+                                    let seasonsContainer = document.getElementById("seasons-container");
+                                    seasonsContainer.innerHTML = "";
+                                    for (let i = epCount; i >= 1; i--) {
+                                        seasonsContainer.insertAdjacentHTML("afterbegin", `
+                                        <div class="episode" data-ep="${i}">Episode ${i}</div>`);
+                                    }
+
+                                    seasonsContainer.insertAdjacentHTML("afterbegin", `
+                                    <div class="back">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#fff" class="bi bi-chevron-double-left" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M8.354 1.646a.5.5 0 0 1 0 .708L2.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0"/>
+                                        <path fill-rule="evenodd" d="M12.354 1.646a.5.5 0 0 1 0 .708L6.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0"/>
+                                        </svg>
+                                    </div>`);
+
+                                    $(".episode").click(function(event){
+                                        event.stopImmediatePropagation();
+                                        $(".episode").removeClass("active");
+                                        $(this).addClass("active");
+                                        let ep = $(this).data("ep");
+                                        ep_num = parseInt(ep);
+                                        season_num = season;
+                                        if(serverChanged){
+                                      
+                                            $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1&s=${season_num}&e=${ep_num}`)
+                                        } else {
+                                         
+                                            $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/tv?tmdb=${data}&season=${season_num}&episode=${ep_num}`); 
+                                        }
+                                        
+                                    })
+
+                                    $(".back").click(function(event){
+                                        event.stopImmediatePropagation();
+                                        seasonsContainer.innerHTML = "";
+                                        seasonsContainer.insertAdjacentHTML("afterbegin", `${s}`);
+                                        attachSeasonClickEvents();
+                                    })
+                                })
+                            }
+
+                            attachSeasonClickEvents();
+
+                            let slider = document.getElementById("seasons-container");
+                            let isDown = false;
+                            let startX;
+                            let scrollLeft;
+
+                            slider.addEventListener('mousedown', (e) => {
+                                isDown = true;
+                                slider.classList.add('active');
+                                startX = e.pageX - slider.offsetLeft;
+                                scrollLeft = slider.scrollLeft;
+                            });
+
+                            slider.addEventListener('mouseleave', () => {
+                                isDown = false;
+                                slider.classList.remove('active');
+                            });
+
+                            slider.addEventListener('mouseup', () => {
+                                isDown = false;
+                                slider.classList.remove('active');
+                            });
+
+                            slider.addEventListener('mousemove', (e) => {
+                                if (!isDown) return;
+                                e.preventDefault();
+                                const x = e.pageX - slider.offsetLeft;
+                                const walk = (x - startX) * 2; // scroll-fast
+                                slider.scrollLeft = scrollLeft - walk;
+                            });
+
+                            $(".close-button").click(function(event){
+                                event.stopImmediatePropagation();
+                                $("html, body").css("overflow", "auto");
+                                $(".watch-window").remove();
+                            })
+                            
+
+                            
+                        })
+                    })
+                }
+            }
+
+            document.getElementById("page-num").innerHTML = n;
+        })
+    }
+
+    if ($(window).width() > 600) {
+        $(".search").click(function(event){
+            event.stopImmediatePropagation();
+            let searchFor = 'movie';
+
+            $("html, body").css("overflow", "hidden");
+            document.body.insertAdjacentHTML("afterbegin", `
+            <div class="search-window">
+                <div>
+                    <input type="text" autocomplete="off" id="search" placeholder="What to watch"/>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="var(--orange)" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                    </svg>
+                    <div class="type">
+                        <div class="active" data-t="movie">Movie</div>
+                        <div data-t="series">Series</div>
+                    </div>
+                </div>
+            </div>`);
+
+            document.getElementById('search').focus();
+
+            $(".search-window").click(function(event){
+                $("html, body").css("overflow", "auto");
+                $(this).remove();
+            })
+
+            $(".type > div").click(function(event){
+                event.stopImmediatePropagation();
+                $(".type > div").removeClass("active");
+                $(this).addClass("active");
+                searchFor = $(this).data("t");
+            })
+    
+            $(".search-window > div").click(function(event){
+                event.stopImmediatePropagation();
+            })
+
+            let searchEl = document.getElementById("search");
+
+            searchEl.addEventListener("keydown", function(event) {
+                if (event.key === "Enter") {
+                    search(this.value, searchFor);
+                }
+            });
+
+            $(".search-window svg").click(function(event){
+                event.stopImmediatePropagation();
+                search(searchEl.value, searchFor);
+            })
+        })
+
+    } else {
+        let searchFor = 'movie';
+        let searchEl = document.getElementById("s-search");
+
+        searchEl.addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                search(this.value, searchFor);
+
+                this.value = "";
+
+                $(".side-bar").animate({
+                    "left" : "-81vw",
+                }, 500);
+            }
+        });
+
+        $(".side-bar .type > div").click(function(event){
+            event.stopImmediatePropagation();
+            $(".type > div").removeClass("active");
+            $(this).addClass("active");
+            searchFor = $(this).data("t");
+        })
+
+        $(".side-bar .search a").click(function(event){
+            event.stopImmediatePropagation();
+            search(searchEl.value, searchFor);
+
+            searchEl.value = "";
+
+            $(".side-bar").animate({
+                "left" : "-81vw",
+            }, 500);
+        })
+
+        function swapElements(el1, el2) {
+            // Get the parent node of the elements
+            const parent1 = el1.parentNode;
+            const parent2 = el2.parentNode;
+        
+            // Get the next sibling of the elements
+            const sibling1 = el1.nextSibling === el2 ? el1 : el1.nextSibling;
+            const sibling2 = el2.nextSibling === el1 ? el2 : el2.nextSibling;
+        
+            // Move el1 to the position of el2
+            parent2.insertBefore(el1, sibling2);
+        
+            // Move el2 to the position of el1
+            parent1.insertBefore(el2, sibling1);
+        }
+        
+        // Usage
+        const element1 = document.getElementById('copyright');
+        const element2 = document.getElementById('tmdb');
+        swapElements(element1, element2);
+
+        let hidden = true;
+        $(".bars").click(function(event){
+            event.stopImmediatePropagation();
+            if (hidden) {
+                $(".side-bar").animate({
+                    "left" : "0",
+                }, 500);
+                
+                $(".bars div:nth-child(2)").hide();
+                $(".bars div:nth-child(1)").addClass("r1");
+                $(".bars div:nth-child(3)").addClass("r2");
+                $(".bars div:nth-child(1)").removeClass("rb1");
+                $(".bars div:nth-child(3)").removeClass("rb2");
+                hidden = false;
+                
+            } else {
+                    $(".side-bar").animate({
+                    "left" : "-81vw",
+                }, 500);
+                $(".bars div:nth-child(2)").show("1000");
+                $(".bars div:nth-child(1)").addClass("rb1");
+                $(".bars div:nth-child(3)").addClass("rb2");
+                $(".bars div:nth-child(1)").removeClass("r1");
+                $(".bars div:nth-child(3)").removeClass("r2");
+
+                hidden = true;
+
+            }
+        })
+    }
+
+    fetchMovies(page);
+    
+    function fetchMovies(n) {
+        const options = {
+            method: 'GET',
+            headers: {
+                accept: 'application/json',
+                Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8'
+            }
+            };
+            const today = new Date().toISOString().split('T')[0];
+            fetch(`https://api.themoviedb.org/3/discover/movie?with_genres=16&with_original_language=ja&include_adult=false&sort_by=release_date.desc&release_date.lte=${today}&page=${n}`, options)
+            .then(response => response.json())
+            .then(response => {
+
+            document.getElementById("main").innerHTML = "";
+            
+            let movies = response.results;
+            for (let i = 0; i < movies.length; i++) {
+                let date = new Date(movies[i].release_date);
+                let img = new Image();
+                let url = `https://image.tmdb.org/t/p/w400${movies[i].poster_path}`;
+                img.src = url;
+                img.onload = function() {
+                    document.getElementById('main').insertAdjacentHTML("beforeend", 
+                    `<div>
+                        <div class="movie" data-id='${movies[i].id}' data-title="${movies[i].title}">
+                            <img src="${url}" alt="${movies[i].title}"/>
+                            <p class="text-center"><span>(${date.getFullYear()})</span><br>${movies[i].title} </p>
+                        </div>
+                    </div>`);
+
+                    $(".movie").on("click", function(event){
+                        event.stopImmediatePropagation();
+                        mediaNotif();
+                        let data = $(this).data("id");
+
+                        $("html, body").css("overflow", "hidden");
+        
+                        let str = "";
+                        if ($(window).width() > 600) {
+                            str = `Download ${$(this).data("title")}`;
+                        } else {
+                            str = `Download`;
+                        }
+                        
+                        let videoUrl = `https://vidsrc.me/embed/movie?tmdb=${data}`; // Replace with your actual video URL
+                        
+                        document.body.insertAdjacentHTML("afterbegin", `
+                        <div class="watch-window">
+                            <div>
+                                <div class="dl-button" onclick="window.open('https://mordoops.com/4/7777606', '_blank');">${str}</div>
+                                <div class="change-server-button">Change server</div>
+                                <div class="close-button">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="var(--orange)" class="bi bi-x-square-fill" viewBox="0 0 16 16">
+                                    <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.354 4.646L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708"/>
+                                    </svg>
+                                </div>
+                                <iframe src="${videoUrl}" allowfullscreen></iframe>
+                            </div>
+                        </div>`);
+
+                        $(".dl-button, .change-server-button").css("bottom", "-35px");
+                        let serverChanged = false;
+                        $(".change-server-button").click(function(){
+                            if (!serverChanged){
+                                
+                                serverChanged = true;
+                                $(".watch-window iframe").attr("src", `https://multiembed.mov/directstream.php?video_id=${data}&tmdb=1`)
+                            } else {
+                                serverChanged = false;
+                                $(".watch-window iframe").attr("src", `https://vidsrc.me/embed/movie?tmdb=${data}` )
+                            }
+                            
+                        })
+        
+                        $(".close-button").click(function(event){
+                            event.stopImmediatePropagation();
+                            $("html, body").css("overflow", "auto");
+                            $(".watch-window").remove();
+                        })
+                    
+                        
+                        
+                    })
+                }
+            }
+
+            setTimeout(() => {
+                $(".preload-logo").animate({
+                    "opacity" : "0"
+                }, "fast")
+                $(".preload").addClass("preload2");
+            }, 1000)
+            
+            setTimeout(function () {
+                $(".preload-logo").remove();
+                $(".preload").remove();
+            }, 2000);
+
+            document.getElementById("page-num").innerHTML = n;
+        })
+    }
+
+    $("#jump").click(function(event){
+        event.stopImmediatePropagation();
+        if ($("#jump-page").val() !== '') {
+            document.getElementById("main").scrollIntoView({behavior: "smooth"})
+            page = parseInt($("#jump-page").val());
+            (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
+            $("#jump-page").val('');
+        }
+    })
+
+    $("#next").click(function(event){
+        event.stopImmediatePropagation();
+        page += 1;
+        (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
+        document.getElementById("main").scrollIntoView({behavior: "smooth"})
+    })
+
+    $("#prev").click(function(event){
+        event.stopImmediatePropagation();
+        if (page > 1) {
+            page -= 1;
+            (type == 'movies') ? fetchMovies(page) : fetchSeries(page);
+            document.getElementById("main").scrollIntoView({behavior: "smooth"})
+        }
+    })
+})
+
+
+async function checkVideoAvailability(videoUrl) {
+    try {
+        const response = await fetch(videoUrl, { method: 'HEAD' }); // HEAD request to just get headers
+        if (response.ok) {
+            // Video is available
+            return true;
+        } else {
+            // Video is unavailable
+            return false;
+        }
+    } catch (error) {
+        console.error('Network error or video is unavailable:', error);
+        return false;
+    }
+}
+

@@ -1,1 +1,144 @@
-const _0x28c866=_0xe8f4;(function(_0x2a297d,_0x40c617){const _0x464da9=_0xe8f4,_0x334327=_0x2a297d();while(!![]){try{const _0x2b8c11=parseInt(_0x464da9(0x187))/0x1+parseInt(_0x464da9(0x14a))/0x2+parseInt(_0x464da9(0x171))/0x3+-parseInt(_0x464da9(0x152))/0x4*(parseInt(_0x464da9(0x183))/0x5)+parseInt(_0x464da9(0x181))/0x6*(-parseInt(_0x464da9(0x168))/0x7)+parseInt(_0x464da9(0x195))/0x8*(parseInt(_0x464da9(0x170))/0x9)+parseInt(_0x464da9(0x184))/0xa*(-parseInt(_0x464da9(0x164))/0xb);if(_0x2b8c11===_0x40c617)break;else _0x334327['push'](_0x334327['shift']());}catch(_0x4373c4){_0x334327['push'](_0x334327['shift']());}}}(_0x5d54,0x8c69e));var type=_0x28c866(0x151),baseUrl=window['location'][_0x28c866(0x198)],options={'method':'GET','headers':{'accept':_0x28c866(0x16a),'Authorization':'Bearer\x20eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8'}},GENRES=[{'genre':_0x28c866(0x1a0),'name':'action'},{'genre':_0x28c866(0x17e),'name':_0x28c866(0x182)},{'genre':_0x28c866(0x150),'name':_0x28c866(0x1a4)},{'genre':_0x28c866(0x15b),'name':_0x28c866(0x17c)},{'genre':'Ghibli','name':_0x28c866(0x18a)},{'genre':_0x28c866(0x15d),'name':_0x28c866(0x159)},{'genre':_0x28c866(0x14b),'name':_0x28c866(0x19a)},{'genre':_0x28c866(0x162),'name':_0x28c866(0x153)},{'genre':_0x28c866(0x178),'name':_0x28c866(0x19e)},{'genre':_0x28c866(0x14f),'name':_0x28c866(0x16d)},{'genre':_0x28c866(0x161),'name':_0x28c866(0x16b)},{'genre':_0x28c866(0x155),'name':_0x28c866(0x165)}];function _0xe8f4(_0x5ae4ff,_0x5e3a7d){const _0x5d545c=_0x5d54();return _0xe8f4=function(_0xe8f496,_0x44b4ac){_0xe8f496=_0xe8f496-0x148;let _0x1962d5=_0x5d545c[_0xe8f496];return _0x1962d5;},_0xe8f4(_0x5ae4ff,_0x5e3a7d);}function _0x5d54(){const _0x396e5e=['results','.bars\x20div:nth-child(2)','chinese','home','Animated\x20TV\x20Shows','main','name','66bKgegx','animated-tv-shows','995960FtyBbP','707240iqeCFz','series','length','1070027ZHpxIJ','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-genre=\x22series\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://placehold.jp/121211/0cad0c/200x350.png?text=SERIES\x22\x20alt=\x22Series\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span></span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','filter','studio-ghibli','map','open','https://api.themoviedb.org/3/search/movie?query=the%20wall&include_adult=false&language=en-US&page=1','.side-bar','-81vw','\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span>','https://api.themoviedb.org/3/search/movie?query=65&include_adult=false&language=en-US&page=1','ready','beforeend','fast','6366112UuxwkN','.preload-logo','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-genre=\x22','origin','animate','filipino-films','privacy','rb1','genre','korean','</span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','Action','/series/','hide','type','anime','.preload','https://image.tmdb.org/t/p/w500','https://api.themoviedb.org/3/search/movie?query=howl%27s%20moving%20castle&include_adult=false&language=en-US&page=1','https://api.themoviedb.org/3/search/movie?query=trigger%20warning&include_adult=false&language=en-US&page=1','.side-bar\x20ul\x20li,\x20header\x20ul\x20li','2181222toXGaT','Filipino','.bars\x20div:nth-child(1)','1000','https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1','Sci-Fi','Anime','movies','8YQCwrx','horror','preload2','War','https://api.themoviedb.org/3/search/tv?query=alchemy%20of%20souls&include_adult=false&language=en-US&page=1','stopImmediatePropagation','all','fantasy','show','Chinese','json','Fantasy','.bars\x20div:nth-child(3)','data','https://api.themoviedb.org/3/search/tv?query=a%20love%20so%20beautiful&first_air_date_year=2017&include_adult=false&language=en-US&page=1','Thriller','Horror','.main\x20>\x20div','308yyRXVx','war','addClass','click','658672ocJVLC','https://api.themoviedb.org/3/search/tv?query=family%20guy&include_adult=false&language=en-US&page=1','application/json','thriller','rb2','sci-fi','https://api.themoviedb.org/3/search/movie?query=my%20zombabe&include_adult=false&language=en-US&page=1','getElementById','9jxQkIX','3097332ANmtXI','error','/privacy-policy/','remove','https://api.themoviedb.org/3/search/movie?query=damsel&include_adult=false&language=en-US&page=1','_self','insertAdjacentHTML','Korean','removeClass'];_0x5d54=function(){return _0x396e5e;};return _0x5d54();}async function fetch_genres(){const _0x22fd82=_0x28c866,_0x3fa7d7=[fetch('https://api.themoviedb.org/3/search/movie?query=deadpool%20%26%20wolverine&include_adult=false&language=en-US&page=1',options),fetch(_0x22fd82(0x169),options),fetch(_0x22fd82(0x14e),options),fetch(_0x22fd82(0x160),options),fetch(_0x22fd82(0x1a7),options),fetch(_0x22fd82(0x175),options),fetch(_0x22fd82(0x16e),options),fetch('https://api.themoviedb.org/3/search/movie?query=kuyang&include_adult=false&language=en-US&page=1',options),fetch(_0x22fd82(0x156),options),fetch(_0x22fd82(0x191),options),fetch(_0x22fd82(0x148),options),fetch(_0x22fd82(0x18d),options)];try{const _0x35dd41=await Promise[_0x22fd82(0x158)](_0x3fa7d7),_0x2f3e8b=await Promise[_0x22fd82(0x158)](_0x35dd41['map'](_0x4f8f9f=>_0x4f8f9f[_0x22fd82(0x15c)]())),_0x28676d=_0x2f3e8b[_0x22fd82(0x18b)](_0x3dc019=>{const _0x121b1f=_0x22fd82;if(_0x3dc019[_0x121b1f(0x17a)]&&_0x3dc019[_0x121b1f(0x17a)][_0x121b1f(0x186)]>0x0)return _0x121b1f(0x1a6)+_0x3dc019['results'][0x0]['poster_path'];return null;}),_0x29c36e=_0x28676d[_0x22fd82(0x189)](_0x22f42c=>_0x22f42c!==null);setTimeout(()=>{const _0x3b6316=_0x22fd82;$('.preload-logo')[_0x3b6316(0x199)]({'opacity':'0'},_0x3b6316(0x194)),$('.preload')['addClass'](_0x3b6316(0x154));},0x3e8),setTimeout(function(){const _0x23988f=_0x22fd82;$(_0x23988f(0x196))[_0x23988f(0x174)](),$(_0x23988f(0x1a5))['remove']();},0x7d0);for(let _0x198093=0x0;_0x198093<_0x29c36e[_0x22fd82(0x186)];_0x198093++){document['getElementById']('main')[_0x22fd82(0x177)](_0x22fd82(0x193),_0x22fd82(0x197)+GENRES[_0x198093][_0x22fd82(0x180)]+'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22'+_0x29c36e[_0x198093]+'\x22\x20alt=\x22'+GENRES[_0x198093][_0x22fd82(0x19d)]+_0x22fd82(0x190)+GENRES[_0x198093]['genre']+_0x22fd82(0x19f));}document[_0x22fd82(0x16f)](_0x22fd82(0x17f))[_0x22fd82(0x177)](_0x22fd82(0x193),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20data-genre=\x22movies\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://placehold.jp/121211/0cad0c/200x350.png?text=MOVIES\x22\x20alt=\x22Movies\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22text-center\x22><span></span></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>'),document[_0x22fd82(0x16f)]('main')[_0x22fd82(0x177)]('beforeend',_0x22fd82(0x188)),$(_0x22fd82(0x163))['click'](function(_0x4ffc3e){const _0x102e1e=_0x22fd82;_0x4ffc3e[_0x102e1e(0x157)]();let _0x226fa6=$(this)['data'](_0x102e1e(0x19d));window[_0x102e1e(0x18c)]('/'+_0x226fa6+'/',_0x102e1e(0x176));});}catch(_0x2ad96f){console[_0x22fd82(0x172)]('Error\x20fetching\x20data:',_0x2ad96f);}}fetch_genres(),$(document)[_0x28c866(0x192)](function(){const _0x3df1e7=_0x28c866;let _0x3f7201=!![];$(_0x3df1e7(0x149))[_0x3df1e7(0x167)](function(_0x321fd9){const _0x58d989=_0x3df1e7;_0x321fd9[_0x58d989(0x157)]();let _0xf78412=$(this)[_0x58d989(0x15f)](_0x58d989(0x1a3));if(_0xf78412==_0x58d989(0x151))window[_0x58d989(0x18c)](baseUrl+'/movies/','_self');else{if(_0xf78412==_0x58d989(0x185))window[_0x58d989(0x18c)](baseUrl+_0x58d989(0x1a1),'_self');else{if(_0xf78412==_0x58d989(0x17d))window[_0x58d989(0x18c)](baseUrl,_0x58d989(0x176));else _0xf78412==_0x58d989(0x19b)&&window[_0x58d989(0x18c)](baseUrl+_0x58d989(0x173),_0x58d989(0x176));}}}),$('.bars')['click'](function(_0x277377){const _0x175ded=_0x3df1e7;_0x277377[_0x175ded(0x157)](),_0x3f7201?($(_0x175ded(0x18e))[_0x175ded(0x199)]({'left':'0'},0x1f4),$('.bars\x20div:nth-child(2)')[_0x175ded(0x1a2)](),$(_0x175ded(0x14c))[_0x175ded(0x166)]('r1'),$(_0x175ded(0x15e))['addClass']('r2'),$(_0x175ded(0x14c))[_0x175ded(0x179)](_0x175ded(0x19c)),$(_0x175ded(0x15e))[_0x175ded(0x179)]('rb2'),_0x3f7201=![]):($(_0x175ded(0x18e))[_0x175ded(0x199)]({'left':_0x175ded(0x18f)},0x1f4),$(_0x175ded(0x17b))[_0x175ded(0x15a)](_0x175ded(0x14d)),$(_0x175ded(0x14c))[_0x175ded(0x166)](_0x175ded(0x19c)),$(_0x175ded(0x15e))['addClass'](_0x175ded(0x16c)),$(_0x175ded(0x14c))['removeClass']('r1'),$(_0x175ded(0x15e))[_0x175ded(0x179)]('r2'),_0x3f7201=!![]);});});
+var type = 'movies';
+var baseUrl = window.location.origin;
+
+var options = {
+    method: 'GET',
+    headers: {
+      accept: 'application/json',
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzNzM5NzQwMjk2YTdkNWU5YTRlYjhlZjU1ODZiMzJjMiIsIm5iZiI6MTcyMzA5NjQ1Ni4wMTE2MzksInN1YiI6IjY2YTcyZWU0YWNkYzZjZGFmYWIxOWRhNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TDXBSYS4CWW-MH2DE14gYRHQ5mV_un9foW8rhfWAnf8'
+    }
+};
+
+var GENRES = [{genre: 'Action', name: 'action'},{genre: 'Animated TV Shows',
+name: 'animated-tv-shows'}, {genre:
+'Anime', name : 'anime'}, {genre: 'Chinese',
+name: 'chinese'}, {genre: 'Ghibli', name: 'studio-ghibli'}, {genre: 'Fantasy' , name: 'fantasy'}, {genre: 'Filipino', name: 'filipino-films'}, {genre: 'Horror',
+name: 'horror'}, {genre: 'Korean', name: 'korean'}, {genre: 'Sci-Fi', name:
+'sci-fi'}, {genre: 'Thriller', name: 'thriller'}, {genre: 'War', name: 'war'}];
+
+  async function fetch_genres() {
+      const requests = [
+          fetch('https://api.themoviedb.org/3/search/movie?query=deadpool%20%26%20wolverine&include_adult=false&language=en-US&page=1', options),
+          
+          fetch('https://api.themoviedb.org/3/search/tv?query=family%20guy&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/tv?query=jujutsu&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/tv?query=a%20love%20so%20beautiful&first_air_date_year=2017&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=howl%27s%20moving%20castle&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=damsel&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=my%20zombabe&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=kuyang&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/tv?query=alchemy%20of%20souls&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=65&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=trigger%20warning&include_adult=false&language=en-US&page=1', options),
+          fetch('https://api.themoviedb.org/3/search/movie?query=the%20wall&include_adult=false&language=en-US&page=1', options)
+      ];
+  
+      try {
+          const responses = await Promise.all(requests);
+          const jsonResponses = await Promise.all(responses.map(res => res.json()));
+          
+          // Extract the first image URL from each response
+          const imageUrls = jsonResponses.map(response => {
+              if (response.results && response.results.length > 0) {
+                  return `https://image.tmdb.org/t/p/w500${response.results[0].poster_path}`;
+              }
+              return null;
+          });
+  
+          // Filter out null values (in case no image was found)
+          const validImageUrls = imageUrls.filter(url => url !== null);
+
+          setTimeout(() => {
+              $(".preload-logo").animate({
+                  "opacity" : "0"
+              }, "fast")
+              $(".preload").addClass("preload2");
+          }, 1000)
+          
+          setTimeout(function () {
+              $(".preload-logo").remove();
+              $(".preload").remove();
+          }, 2000);
+          
+            for (let i = 0; i < validImageUrls.length; i++) {
+              document.getElementById("main").insertAdjacentHTML("beforeend", `
+              <div data-genre="${GENRES[i].name}">
+                  <div>
+                      <img src="${validImageUrls[i]}" alt="${GENRES[i].genre}"/>
+                      <p class="text-center"><span>${GENRES[i].genre}</span></p>
+                  </div>
+              </div>`);
+            }
+            document.getElementById("main").insertAdjacentHTML("beforeend", `
+            <div data-genre="movies">
+                <div>
+                    <img src="https://placehold.jp/121211/0cad0c/200x350.png?text=MOVIES" alt="Movies"/>
+                    <p class="text-center"><span></span></p>
+                </div>
+            </div>`);
+            document.getElementById("main").insertAdjacentHTML("beforeend", `
+            <div data-genre="series">
+                <div>
+                    <img src="https://placehold.jp/121211/0cad0c/200x350.png?text=SERIES" alt="Series"/>
+                    <p class="text-center"><span></span></p>
+                </div>
+            </div>`);
+
+          $(".main > div").click(function(event){
+              event.stopImmediatePropagation();
+              let genre = $(this).data("genre");
+              window.open(`/${genre}/`, "_self");
+          })
+  
+      // Now you can do something with the image URLs, such as displaying them
+      } catch (error) {
+          console.error('Error fetching data:', error);
+      }
+  }
+  fetch_genres();
+
+        
+$(document).ready(function() {
+    let hidden = true;
+    $(".side-bar ul li, header ul li").click(function(event){
+        event.stopImmediatePropagation();
+        let t =$(this).data('type');
+        if (t == 'movies') {
+            window.open(baseUrl + "/movies/", "_self");
+        } else if (t == "series"){
+            window.open(baseUrl + "/series/", "_self");
+        } else if (t == "home"){
+            window.open(baseUrl, "_self");
+        } else if (t == "privacy"){
+            window.open(baseUrl + "/privacy-policy/", "_self");
+        }
+    })
+    $(".bars").click(function(event){
+        event.stopImmediatePropagation();
+        if (hidden) {
+            $(".side-bar").animate({
+                "left" : "0",
+            }, 500);
+            
+            $(".bars div:nth-child(2)").hide();
+            $(".bars div:nth-child(1)").addClass("r1");
+            $(".bars div:nth-child(3)").addClass("r2");
+            $(".bars div:nth-child(1)").removeClass("rb1");
+            $(".bars div:nth-child(3)").removeClass("rb2");
+            hidden = false;
+            
+        } else {
+                $(".side-bar").animate({
+                "left" : "-81vw",
+            }, 500);
+            $(".bars div:nth-child(2)").show("1000");
+            $(".bars div:nth-child(1)").addClass("rb1");
+            $(".bars div:nth-child(3)").addClass("rb2");
+            $(".bars div:nth-child(1)").removeClass("r1");
+            $(".bars div:nth-child(3)").removeClass("r2");
+
+            hidden = true;
+
+        }
+    })
+})
