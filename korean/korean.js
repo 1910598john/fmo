@@ -174,7 +174,7 @@ function search(s, type) {
                                     let s = "";
                                     for (let i = 0; i < seasons.length; i++) {
                                         s += `
-                                        <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">${seasons[i].name}</div>`;
+                                        <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">Season ${seasons[i].season_number}</div>`;
                                     }
                                     
                                     
@@ -444,7 +444,7 @@ $(document).ready(function() {
                             let s = "";
                             for (let i = 0; i < seasons.length; i++) {
                                 s += `
-                                <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">${seasons[i].name}</div>`;
+                                <div data-season-number="${seasons[i].season_number}" data-ep-count="${seasons[i].episode_count}">Season ${seasons[i].season_number}</div>`;
                             }
                             
                             
