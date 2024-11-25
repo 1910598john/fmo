@@ -10,6 +10,8 @@ var options = {
     }
 };
 
+window.open('../filipino-films/', '_self');
+
 function search(s, type) {
     $(".show-options").hide();
     $(".pg").remove();
