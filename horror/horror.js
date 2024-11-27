@@ -358,7 +358,7 @@ $(document).ready(function() {
             hidden = false;
             
         } else {
-                $(".side-bar").animate({
+            $(".side-bar").animate({
                 "left" : "-81vw",
             }, 500);
             $(".bars div:nth-child(2)").show("1000");
@@ -368,7 +368,6 @@ $(document).ready(function() {
             $(".bars div:nth-child(3)").removeClass("r2");
 
             hidden = true;
-
         }
     })
 
